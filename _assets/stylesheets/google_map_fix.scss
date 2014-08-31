@@ -1,0 +1,10 @@
+.map_container {
+  position: relative;
+  margin-bottom: 2em;
+  
+  .overlay {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+  }
+}

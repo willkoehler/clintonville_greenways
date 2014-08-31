@@ -1,0 +1,108 @@
+// Use border-box sizing for everything.
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  margin:0;
+  border:0;
+  font-family:$font;
+  color:$text;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizelegibility;
+  font-size:17px;
+  line-height: 1.428571429;
+}
+
+iframe { border: none; margin-bottom: 2em; }
+img { vertical-align: middle; }
+
+.section {
+  margin: 0 6em;
+}
+
+p {
+  margin: 0 0 1.5em;
+}
+
+h1, h2, h3, h4, h5 {
+  color:#263c4c;
+  line-height: 1.1;
+  margin-bottom: 1em;
+}
+
+h1, h2 {
+  font-family:$fontheadings;
+}
+
+a {
+  color:$accent;
+  text-decoration:none;
+    
+  &:hover {
+    color:darken($accent, 8%);
+    text-decoration:none;
+  }
+}
+
+.container {
+  width:900px;
+  margin:0 auto;
+}
+
+
+.muted { color:$textmuted; }
+
+.btn {
+  color:#fff;
+  font-weight:bold;
+  font-size: 0.8em;
+  padding: 0.6em 1.2em;
+  display: inline-block;
+  position: relative;
+  border: 0;
+  text-align: center;
+  text-decoration: none;
+  font-style: normal;
+  font-weight:600;
+  cursor: pointer;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+  vertical-align: bottom;
+  text-rendering: optimizeLegibility;
+  border-radius: 2px;
+  vertical-align:middle;
+  border-radius:2px;
+  background: $accent;
+  border:2px solid $accent;
+  border-radius: 3px;
+  text-transform: uppercase;
+  white-space:nowrap;
+
+  &:hover {
+    background:darken($accent, 10%);
+    border-color:darken($accent, 10%);
+    color:#fff;
+  }
+    
+  &:active {
+    box-shadow:none;
+  }
+
+  &.outline {
+    background: none;
+    border-radius: 4px;
+    font-size: 0.8em;
+    color:darken($accent, 5%);
+
+    &:hover {
+      border:2px solid darken($accent, 5%);
+      color:darken($accent, 10%);
+      background:none;
+    }
+  }
+}
+

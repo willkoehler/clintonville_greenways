@@ -1,0 +1,28 @@
+/* CONFIGURATION */
+
+/* Bodytext font */
+$font: Helvetica, Arial, sans-serif;
+
+/* Font for headings */
+$fontheadings: Helvetica, Arial, sans-serif;
+
+/* Text colors */
+$text: #21272d;
+$textmuted: #848484;
+$accent: #2077b2;
+
+@mixin vertical_aligning_container {
+    &:before {
+      content: '';
+      display: inline-block;
+      height: 100%;
+      vertical-align: middle;
+      margin-right: -.34em; // remove space taken up and prevent word-wrapping
+    }            
+}
+
+/* IMPORT CSS FILES */
+@import "normalize";
+@import "base";
+@import "contact_form";
+@import "google_map_fix";
