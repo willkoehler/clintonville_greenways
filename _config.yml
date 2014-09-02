@@ -1,6 +1,9 @@
 # Root URL where the site will be published
 url:         http://clintonville.bike
 
+# Google Analytics tracking ID. Leave blank to disable tracking
+google-analytics-id: 'UA-54124306-2'
+
 # safe mode must be disabled to use jekyll-assets.
 safe:               false
 
