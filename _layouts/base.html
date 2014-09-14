@@ -2,19 +2,25 @@
 <html>
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name='viewport' content='width=980' />
+  <meta name='viewport' content='width=820' />
   <title>{% if page.title %}{{ page.title }}{% else %}Bike Clintonville{% endif %}</title>
   {% stylesheet app %}
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   <script src="https://maps.googleapis.com/maps/api/js"></script>
   {% javascript app %}
+  {% include social_scripts.html %}
   {% include google_analytics.html %}
+<!-- facebook meta tags to provide information for the like button -->
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:image" content="{{ site.url }}/images/neighborhood-greenway.jpg" />
+  <meta property="og:site_name" content="Clintonville Neighborhood Greenways" />
+  <meta property="og:description" content="{{ page.description }}" />
 </head>
 <body>
     
-  <div class='container'>
-    {{ content }}
-  </div>
+  {{ content }}
 
 </body>
 </html>
