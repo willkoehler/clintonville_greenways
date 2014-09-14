@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <meta name='viewport' content='width=980' />
-    <title>{% if page.title %}{{ page.title }}{% else %}Bike Clintonville{% endif %}</title>
-    {% stylesheet app %}
-    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js"></script>
-    {% javascript app %}
-    {% include google_analytics.html %}
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name='viewport' content='width=980' />
+  <title>{% if page.title %}{{ page.title }}{% else %}Bike Clintonville{% endif %}</title>
+  {% stylesheet app %}
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js"></script>
+  {% javascript app %}
+  {% include google_analytics.html %}
 </head>
 <body>
     
-    <div class='container'>
-        {{ content }}
-    </div>
+  <div class='container'>
+    {{ content }}
+  </div>
 
 </body>
 </html>
