@@ -1,14 +1,12 @@
 .social {
-    height:40px;
-    padding:10px 0;
+  height:40px;
+  padding:10px 0;
     
-    > div {
-        display:inline-block;
-        width: 100px;
+  > div {
+    display:inline-block;
+    width: 105px;
         
-        &.google { width: 85px; }
-        
-        // vertically align facebook like button with other sharing icons
-        .fb-like, .fb-share-button > span { vertical-align: baseline !important; }
-    }
+    // vertically align facebook like button with other sharing icons
+    .fb-like, .fb-share-button > span { vertical-align: baseline !important; }
+  }
 }
