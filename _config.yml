@@ -4,6 +4,9 @@ url: http://clintonvillegreenways.org
 # Google Analytics tracking ID. Leave blank to disable tracking
 google-analytics-id: 'UA-54124306-2'
 
+# ID of google route map
+map-id: 'zEAPhiHiDgA8.kS4PuSyYyc2I'
+
 # safe mode must be disabled to use jekyll-assets.
 safe:               false
 
