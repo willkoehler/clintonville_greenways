@@ -36,13 +36,13 @@
   }
 
         
-//  // make contact form full width
-//  form.contact {
-//    width: 100%;
-//    input, textarea {
-//      font-size: 16px;    // 16px or larger font prevents iOS from zooming in inputs on focus
-//    }
-//  }
+  // make contact form full width
+  #mc_embed_signup form {
+    width: 100%;
+    input, textarea {
+      font-size: 16px;    // 16px or larger font prevents iOS from zooming in inputs on focus
+    }
+  }
 }
 
 @media (max-width: 475px) {
