@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Clintonville Neighborhood Greenways</title>
+ <link href="http://clintonvillegreenways.org/atom.xml" rel="self"/>
+ <link href="http://clintonvillegreenways.org"/>
+ <updated>2015-05-04T17:00:38-04:00</updated>
+ <id>http://clintonvillegreenways.org/atom.xml</id>
+ <author>
+   <name>Will Koehler</name>
+   <uri>http://clintonvillegreenways.org</uri>
+ </author>
+ 
+ 
+ <entry>
+   <title>More Bike Parking Coming to Clintonville</title>
+   <link href="http://clintonvillegreenways.org/2015/05/04/more-bike-parking-coming-to-clintonville.html"/>
+   <published>2015-05-04T00:00:00-04:00</published>
+   <updated>2015-05-04T00:00:00-04:00</updated>
+   <id>http://clintonvillegreenways.org/2015/05/04/more-bike-parking-coming-to-clintonville</id>
+   <content type="html">&lt;p&gt;Great text here.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Proposal for Phase 1</title>
+   <link href="http://clintonvillegreenways.org/2015/05/03/proposal-for-phase-1.html"/>
+   <published>2015-05-03T00:00:00-04:00</published>
+   <updated>2015-05-03T12:00:00-04:00</updated>
+   <id>http://clintonvillegreenways.org/2015/05/03/proposal-for-phase-1</id>
+   <content type="html">&lt;p&gt;Phase 1 of the Clintonville Neighborhood Greenways has been funded as part of the 2015 UIRF
+package approved by the City of Columbus and The Clintonville Area Commission. With the funding
+in place, we are now working on the specific design of what will be built.&lt;/p&gt;
+
+&lt;p&gt;This document outlines recommendations for phase 1 of the Clintonville Neighborhood Greenways.
+These recommendations are based on months of researching routes, daily riding through the
+neighborhood, and analysis of other citys’ neighborhood greenway projects.&lt;/p&gt;
+
+&lt;h2 id=&quot;general-design-guidelines&quot;&gt;General Design Guidelines&lt;/h2&gt;
+
+&lt;p&gt;Neighborhood greenways consist of the following elements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;A distinctive look&lt;/b&gt; so that all road users are aware of the neighborhood greenway.
+People driving are alerted that the street is prioritized for biking and walking.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Treatments to reduce vehicle speed and volume as needed.&lt;/b&gt; The goal is to keep 85th
+percentile speed under 25mph and ADT under 1000 cars per day.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Improved treatments at arterials&lt;/b&gt; to help people biking and walking cross more easily.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Free-flow travel for people biking and walking&lt;/b&gt; by assigning the right-of-way to the
+neighborhood greenway at intersections wherever possible.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Way-finding signs&lt;/b&gt; guiding people along the route and letting people know what is
+nearby, for example parks, schools, and local businesses.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;strategy&quot;&gt;Strategy&lt;/h2&gt;
+
+&lt;p&gt;Something about measuring stress metrics and only doing treatments when needed.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
