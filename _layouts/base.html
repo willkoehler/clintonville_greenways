@@ -3,24 +3,55 @@
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% if page.title %}{{ page.title }}{% else %}Bike Clintonville{% endif %}</title>
+  <title>{% if page.title %}{{ page.title }} &mdash; {{ site.info.title }}{% else %}{{ site.info.title }}{% endif %}</title>
+  <!--[if lt IE 9]><script src='https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js'></script><![endif]-->
+  {% if site.info.google_font %}<link href="https://fonts.googleapis.com/css?family={{ site.info.google_font }}" rel="stylesheet" type="text/css">{% endif %}
   {% stylesheet app %}
-  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js"></script>
-  {% javascript app %}
-  {% include social_scripts.html %}
-  {% include google_analytics.html %}
-<!-- facebook meta tags to provide information for the like button -->
+  {% include scripts.html %}
+  <link rel="shortcut icon" href="/favicon.ico?v4" type="image/x-icon" />
+  <link rel="alternate" type="application/atom+xml" title="{{ site.info.title }}" href="/atom.xml" />
+  <meta name="title" content="{% if page.title %}{{ page.title }} {% else %}{{ site.info.title }}{% endif %}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  {% if page.site.gplus %}<link rel="publisher" href="https://plus.google.com/{{ site.info.gplus }}">{% endif %} 
+  {% if page.author.gplus %}<link rel="author" href="https://plus.google.com/{{ page.author.gplus }}">{% endif %}       
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.info.title }}{% endif %}"/>
   <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
-  <meta property="og:type" content="website"/>
-  <meta property="og:title" content="{{ page.title }}" />
-  <meta property="og:image" content="{{ site.url }}/images/neighborhood-greenway.jpg" />
-  <meta property="og:site_name" content="Clintonville Neighborhood Greenways" />
-  <meta property="og:description" content="{{ page.description }}" />
+  {% if page.cover_image %}<meta property="og:image" content="{{ site.url }}/images/{{ page.cover_image }}"/>{% endif %}
+  {% if page.excerpt %}
+  <meta property="og:description" content="{{ page.excerpt }}"/>
+  <meta name="description" content="{{ page.excerpt }}"/>
+  {% endif %}
+  <meta property="og:site_name" content="{{ site.info.title }}">     
 </head>
 <body>
     
+  <header class="site-header">
+    <nav>
+      <div class='tagline'>Streets for Everyone</div>
+      <a class="brand" href="/">
+        <img src="/images/logo.png">
+      </a>
+      <a href="/">Home</a>
+      <a href="/updates.html">Updates</a>
+      <a href="/faq.html">FAQ</a>
+    </nav>
+  </header>
+
   {{ content }}
+
+  <footer class="site-footer">
+    <div class="container">
+      CNG
+        
+      <nav>
+        <a href="/">Home</a> &middot;
+        <a href="/updates.html">Updates</a> &middot;
+        <a href="/faq.html">FAQ</a>
+      </nav>
+        
+      <div>Based on Incorporated theme by <a href="https://sendtoinc.com">Inc</a></div>
+    </div>
+  </footer>
 
 </body>
 </html>

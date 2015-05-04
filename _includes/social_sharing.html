@@ -1,10 +1,12 @@
 <div class="social">
   <div class='twitter'>
-    <a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ page.description }}">Tweet</a>
+    <a href="https://twitter.com/share" class="twitter-share-button" {% if site.info.sharing.twitter.via %}data-via="{{ site.info.sharing.twitter.via }}"{% endif %} data-text="{{ page.title }}" data-related="{{ site.info.twitter }}">Tweet</a>
   </div>
+
   <div class='facebook'>
-    <div class="fb-share-button" data-width="150" data-layout="button_count"></div>
+    <div class="fb-share-button" data-layout="button_count"></div>
   </div>
+
   <div class='google'>
     <div class="g-plusone" data-size="medium"></div>
   </div>

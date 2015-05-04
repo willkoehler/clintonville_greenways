@@ -1,0 +1,15 @@
+@import "globals.scss";
+
+article.faq {
+  padding-top: 30px;
+
+  .question {
+    font-weight: bold;
+    margin-bottom: .5em;
+    &:before { content: "Q: "; };
+  }
+
+  .answer {
+    margin-bottom: 1.5em;
+  }
+}

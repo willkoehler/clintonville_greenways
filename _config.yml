@@ -1,18 +1,21 @@
+info:
+  title: "Clintonville Neighborhood Greenways"
+  
+  # Google Analytics tracking ID. Leave blank to disable tracking
+  google-analytics-id: 'UA-54124306-2'
+  
+  # Google Fonts
+  # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
+  # google_font: 'Droid+Sans:400,700'
+  
 # Root URL where the site will be published
 url: http://clintonvillegreenways.org
-
-# Google Analytics tracking ID. Leave blank to disable tracking
-google-analytics-id: 'UA-54124306-2'
-
-# ID of google route map
-map-id: 'zEAPhiHiDgA8.kS4PuSyYyc2I'
-
 # safe mode must be disabled to use jekyll-assets.
-safe:               false
+safe: false
+# Using 0.0.0.0 allows us to access site through sapphire.local or localhost or 127.0.0.1
+host: 0.0.0.0
 
-#
 # jekyll-assets: see more at https://github.com/ixti/jekyll-assets
-#
 assets:
   dirname: assets
   baseurl: /assets/
