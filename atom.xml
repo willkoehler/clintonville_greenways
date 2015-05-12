@@ -4,7 +4,7 @@
  <title>Clintonville Neighborhood Greenways</title>
  <link href="http://clintonvillegreenways.org/atom.xml" rel="self"/>
  <link href="http://clintonvillegreenways.org"/>
- <updated>2015-05-06T17:26:01-04:00</updated>
+ <updated>2015-05-11T22:17:00-04:00</updated>
  <id>http://clintonvillegreenways.org/atom.xml</id>
  <author>
    <name>Will Koehler</name>
@@ -13,15 +13,223 @@
  
  
  <entry>
-   <title>More Bike Parking Coming to Clintonville</title>
-   <link href="http://clintonvillegreenways.org/2015/05/04/more-bike-parking-coming-to-clintonville.html"/>
+   <title>Phase 1 Route and Design</title>
+   <link href="http://clintonvillegreenways.org/2015/05/08/phase-1-route-and-design.html"/>
+   <published>2015-05-08T00:00:00-04:00</published>
+   <updated>2015-05-03T12:00:00-04:00</updated>
+   <id>http://clintonvillegreenways.org/2015/05/08/phase-1-route-and-design</id>
+   <content type="html">&lt;p&gt;Phase 1 of the Clintonville Neighborhood Greenways has been funded! We are in the process
+of working on a detailed route and design with the City of Columbus.&lt;/p&gt;
+
+&lt;p&gt;This is a working document outlining our recommendations for Phase 1 of the Clintonville
+Neighborhood Greenways. It’s intended to be a starting point for the detailed designs that
+will be developed by the City of Columbus.&lt;/p&gt;
+
+&lt;h2 id=&quot;general-design-guidelines&quot;&gt;General Design Guidelines&lt;/h2&gt;
+
+&lt;p&gt;Neighborhood greenways consist of the following elements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;A distinctive look&lt;/strong&gt; so that all road users are aware of the neighborhood greenway.
+People driving are alerted that the street is prioritized for biking and walking.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Treatments to reduce vehicle speed and volume as needed.&lt;/strong&gt; The goal is to keep speed
+under 25mph and ADT under 1000 cars per day.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Improved treatments at busy intersections&lt;/strong&gt; to help people biking and walking cross more easily.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Free-flow travel for people biking and walking&lt;/strong&gt; by assigning the right-of-way to the
+neighborhood greenway at intersections wherever possible.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Way-finding signs&lt;/strong&gt; guiding people along the route and letting them know what is
+nearby, for example parks, schools, and local businesses.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;strategy&quot;&gt;Strategy&lt;/h2&gt;
+
+&lt;p&gt;Our strategy for building the neighborhood greenway is to start with the simplest
+infrastructure that achieves our design goals (known in the tech world as a “minimal
+viable product”). We will then monitor the success of the neighborhood greenways and
+evolve and improve the design as needed.&lt;/p&gt;
+
+&lt;p&gt;In our case, the minimal viable product is a network of neighborhood roads that feel safe for
+all ages and abilities. This boils down to the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Traffic speed under 25mph&lt;/li&gt;
+  &lt;li&gt;Traffic volume less than 1000 cars/day&lt;/li&gt;
+  &lt;li&gt;People feel relaxed and safe biking and walking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All these metrics can be measured, recorded, and tracked over time. If we meet our goals, no
+additional treatments are needed. If we don’t meet our goals then additional treatments such as
+speed bumps, traffic circles, traffic diverters, etc can be considered.&lt;/p&gt;
+
+&lt;h1 id=&quot;route-and-design-recommendations&quot;&gt;Route and design recommendations&lt;/h1&gt;
+
+&lt;p&gt;The Phase 1 route was chosen to connect to all parts of Clintonville while remaining easy to
+implement. Wherever possible, we chose streets that already met our goals for Neighborhood
+Greenways so that minimal changes will be required.&lt;/p&gt;
+
+&lt;div class=&quot;map_container full&quot;&gt;
+  &lt;a class=&quot;overlay&quot; href=&quot;https://mapsengine.google.com/maps/d/viewer?mid=zEAPhiHiDgA8.kIVN6G1UPcLo&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;
+  &lt;iframe src=&quot;https://mapsengine.google.com/map/u/0/embed?mid=zEAPhiHiDgA8.kIVN6G1UPcLo&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;calumet-street&quot;&gt;Calumet Street&lt;/h2&gt;
+
+&lt;p&gt;Calumet Street &lt;span class=&quot;muted smaller&quot;&gt;(‘A’ on map)&lt;/span&gt; is the biggest challenge on the
+neighborhood greenway route. Traffic volume is 2200 cars/day - twice what we would like. 85th
+percentile speed is 33mph in some places - well above our goal of 25mph. Calumet is a neighborhood
+collector, which means traffic restrictions would be difficult. Because on-street parking is widely
+used, we cannot make room for bike lanes.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Create well-defined travel lanes.&lt;/b&gt; Stipe out an 8’ parking lane with a white line. Add a yellow
+center line. This will define the travel lanes and visually narrow the road, which has been shown to
+slow down traffic.&lt;/p&gt;
+
+&lt;p&gt;Consider using a dashed yellow line where it’s safe to pass people biking and double yellow line
+elsewhere.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Add green sharrows&lt;/b&gt; at 75 to 100 foot intervals. Sharrows on a green background are more
+effective than standard sharrows and are recommended for roads with higher traffic volume. More
+frequent sharrows are also advised for roads with higher traffic volume and speed.&lt;/p&gt;
+
+&lt;div class=&quot;full rounded shadow&quot;&gt;&lt;img src=&quot;/images/phase-1/calumet.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;intersection-of-milton-northmoor-and-montrose-way&quot;&gt;Intersection of Milton, Northmoor, and Montrose Way&lt;/h2&gt;
+
+&lt;p&gt;This 6-way intersection &lt;span class=&quot;muted smaller&quot;&gt;(‘B’ on map)&lt;/span&gt; is large and has numerous
+conflict points. While traffic volume is generally low, it can still be tricky to navigate with bikes,
+cars and pedestrians all using the same space.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Add a planted traffic circle.&lt;/b&gt; Traffic entering the circle yields to traffic that’s already in
+the circle.&lt;/p&gt;
+
+&lt;div class=&quot;full rounded shadow&quot;&gt;&lt;img src=&quot;/images/phase-1/six-way.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;intersection-of-milton-and-hollenback&quot;&gt;Intersection of Milton and Hollenback&lt;/h2&gt;
+
+&lt;p&gt;This intersection &lt;span class=&quot;muted smaller&quot;&gt;(‘C’ on map)&lt;/span&gt; is difficult to navigate because
+it’s offset with the exit from the library. Traffic is generally slow and people navigate cautiously.
+The most common conflict is between people turning left from Milton onto Hollenback and people exiting
+the library.&lt;/p&gt;
+
+&lt;p&gt;Long-term this intersection should be re-aligned with the library exit and converted to a 4-way stop.
+For Phase 1 &lt;b&gt;consider adding green sharrows&lt;/b&gt; to highlight the presence of bikes.&lt;/p&gt;
+
+&lt;div class=&quot;full rounded shadow&quot;&gt;&lt;img src=&quot;/images/phase-1/intersection-of-milton-and-hollenback.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;hollenback&quot;&gt;Hollenback&lt;/h2&gt;
+
+&lt;p&gt;Hollenback &lt;span class=&quot;muted smaller&quot;&gt;(‘D’ on map)&lt;/span&gt; is a park road. Traffic volume is sometimes
+high, especially on evenings with children’s soccer. However speeds are low and people are alert.&lt;/p&gt;
+
+&lt;p&gt;There is a side path that parallels Hollenback. This path is narrow and the surface is
+uneven. There are several conflict points where the path crosses driveways. Getting on and
+off the path also requires crossing traffic.&lt;/p&gt;
+
+&lt;p&gt;While some people may choose to use the side path, the neighborhood greenway route should use
+Hollenback and should be marked with sharrows.&lt;/p&gt;
+
+&lt;div class=&quot;full rounded shadow&quot;&gt;&lt;img src=&quot;/images/phase-1/hollenback-road.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;shelter-house-parking-lot&quot;&gt;Shelter house parking lot&lt;/h2&gt;
+
+&lt;p&gt;The route past the shelter house parking lot &lt;span class=&quot;muted smaller&quot;&gt;(‘E’ on map)&lt;/span&gt;
+is confusing. It appears the road goes straight into the parking lot. There are two parking
+lot exits with stop signs, but because of the curvy nature of the road, it’s not clear who has
+the right of way.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Use sharrows or a white edge line to define the travel lane.&lt;/b&gt; Add stop bars at parking
+lot exits to clarify right of way.&lt;/p&gt;
+
+&lt;div class=&quot;full rounded shadow&quot;&gt;&lt;img src=&quot;/images/phase-1/shelter-house-parking-lot.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;exit-to-olentangy-blvd&quot;&gt;Exit to Olentangy Blvd&lt;/h2&gt;
+
+&lt;p&gt;Replace gate with bollards, allowing people biking to pass through, or add a new bike
+exit following the desired direction of travel &lt;span class=&quot;muted smaller&quot;&gt;(‘F’ on map)&lt;/span&gt;&lt;/p&gt;
+
+&lt;div class=&quot;full rounded shadow&quot;&gt;&lt;img src=&quot;/images/phase-1/exit-to-olentangy.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;intersection-of-olentangy-blvd-and-henderson-road&quot;&gt;Intersection of Olentangy Blvd and Henderson Road&lt;/h2&gt;
+
+&lt;p&gt;The light cycle at this intersection &lt;span class=&quot;muted smaller&quot;&gt;(‘G’ on map)&lt;/span&gt; is very long.
+This adds significant delay to trips on the neighborhood greenway route. It also causes a large
+number of cars to queue up on Olentangy Blvd during rush hour. &lt;b&gt;Evaluate shortening the light
+cycle&lt;/b&gt; to reduce delay for neighborhood greenway traffic.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Evaluate the intersection for bike boxes&lt;/b&gt;. Generally people drive cautiously at this
+intersection and there are very few conflicts between cars and bike and pedestrians. However
+as the neighborhood greenway traffic increases, bike boxes would allow people biking to clear
+the intersection quickly at the start of the light cycling instead of mixing with a large line
+of cars.&lt;/p&gt;
+
+&lt;h2 id=&quot;intersection-of-weisheimer-road-and-high-street&quot;&gt;Intersection of Weisheimer Road and High Street&lt;/h2&gt;
+
+&lt;p&gt;This intersection is offset &lt;span class=&quot;muted smaller&quot;&gt;(‘H’ on map)&lt;/span&gt;. However, since there
+is a 4-way traffic signal, it would be possible to &lt;b&gt;re-align the intersection for bikes&lt;/b&gt; with
+cooperation from the property owners on the east side of High St. The north-east corner of
+Weisheimer and High is being redeveloped. So this is a perfect opportunity to start the discussion.&lt;/p&gt;
+
+&lt;p&gt;A second option would be to &lt;b&gt;improve the sidewalk on the east side of High Street&lt;/b&gt; and route
+bikes along the sidewalk in front of the business. This creates a conflict point with cars
+turning onto E. Weisheimer Road. The conflict could be eliminated with a choker entrance preventing
+turns off of High St onto E. Weisheimer Rd.&lt;/p&gt;
+
+&lt;div class=&quot;full rounded shadow&quot;&gt;&lt;img src=&quot;/images/phase-1/intersection-of-weisheimer-and-high.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;road-markings-and-street-signs&quot;&gt;Road markings and street signs&lt;/h1&gt;
+
+&lt;h2 id=&quot;road-markings&quot;&gt;Road markings&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Sharrow&lt;/b&gt; - use throughout the greenway to mark roads as shared use.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Way-marking sharrow&lt;/b&gt; - use to indicate left or right turn ahead.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Green sharrow&lt;/b&gt; - use on roads with higher volume to emphasize shared use lanes.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Gateway sharrow&lt;/b&gt; - use one gateway sharrow after each major intersection to alert road
+users to the presence of the neighborhood greenway.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sharrow flower&lt;/b&gt; - use to mark intersections of neighborhood greenway routes to alert
+people that they have a choice to make.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;full rounded shadow&quot;&gt;&lt;img src=&quot;/images/phase-1/road-markings.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;street-signs-and-way-finding-signs&quot;&gt;Street signs and way-finding signs&lt;/h2&gt;
+
+&lt;p&gt;Branded street signs and way-finding signs add awareness of the Neighborhood Greenway route.
+Examples of neighborhood greenway street signs.&lt;/p&gt;
+
+&lt;div class=&quot;full rounded shadow&quot;&gt;&lt;img src=&quot;/images/phase-1/street-signs.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Examples of neighborhood greenway way-finding.&lt;/p&gt;
+
+&lt;div class=&quot;full rounded shadow&quot;&gt;&lt;img src=&quot;/images/phase-1/way-finding-signs.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;other-cities-design-guidelines&quot;&gt;Other cities’ design guidelines&lt;/h1&gt;
+
+&lt;p&gt;Portland OR and Berkeley CA both have successful neighborhood greenway networks. For reference
+their neighborhood greenway design guidelines are linked below.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Portland, OR&lt;/strong&gt;
+&lt;a href=&quot;http://www.pdx.edu/ibpi/sites/www.pdx.edu.ibpi/files/BicycleBoulevardGuidebook%28optimized%29.pdf&quot; target=&quot;_blank&quot;&gt;Fundamentals of Bicycle Boulevard Planning &amp;amp; Design&lt;/a&gt;
+&lt;span class=&quot;muted&quot; style=&quot;font-size:80%&quot;&gt;(PDF 5.2 MB)&lt;/span&gt;
+&lt;strong&gt;Berkeley, CA&lt;/strong&gt;
+&lt;a href=&quot;http://www.cityofberkeley.info/Public_Works/Transportation/Bicycle_Boulevard_Guidelines.aspx&quot; target=&quot;_blank&quot;&gt;Bicycle Boulevard Design Tools and Guidelines&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>New Bike Parking in Clintonville</title>
+   <link href="http://clintonvillegreenways.org/2015/05/04/new-bike-parking-in-clintonville.html"/>
    <published>2015-05-04T00:00:00-04:00</published>
    <updated>2015-05-04T00:00:00-04:00</updated>
-   <id>http://clintonvillegreenways.org/2015/05/04/more-bike-parking-coming-to-clintonville</id>
+   <id>http://clintonvillegreenways.org/2015/05/04/new-bike-parking-in-clintonville</id>
    <content type="html">&lt;p&gt;&lt;b&gt;This should be short and simple:&lt;/b&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Explain the benefits of bike parking.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Explain the benefits of bike parking. See &lt;a href=&quot;http://www.citylab.com/commute/2012/12/cyclists-and-pedestrians-can-end-spending-more-each-month-drivers/4066/&quot;&gt;http://www.citylab.com/commute/2012/12/cyclists-and-pedestrians-can-end-spending-more-each-month-drivers/4066/&lt;/a&gt;
+“…bikers actually out-consumed drivers over the course of a month. True, they often spent less per visit. But cyclists and pedestrians in particular made more frequent trips (by their own estimation) to these restaurants, bars and convenience stores, and those receipts added up.”&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;Explain how we’re working with the city and local businesses to add more bike parking.&lt;/li&gt;
   &lt;li&gt;Maybe a story? After talking with Alex, Clintonville Outfitters requested a bike rack from the city
 they’re already installed.&lt;/li&gt;
@@ -31,62 +239,9 @@ they’re already installed.&lt;/li&gt;
 &lt;p&gt;&lt;b&gt;Also TODO:&lt;/b&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Think of a better title.&lt;/li&gt;
-  &lt;li&gt;Create a subtitle.&lt;/li&gt;
-  &lt;li&gt;Write an excerpt for the home page.&lt;/li&gt;
+  &lt;li&gt;Think of a subtitle.&lt;/li&gt;
+  &lt;li&gt;Excerpt for the home page.&lt;/li&gt;
 &lt;/ul&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Proposal for Phase 1</title>
-   <link href="http://clintonvillegreenways.org/2015/05/03/proposal-for-phase-1.html"/>
-   <published>2015-05-03T00:00:00-04:00</published>
-   <updated>2015-05-03T12:00:00-04:00</updated>
-   <id>http://clintonvillegreenways.org/2015/05/03/proposal-for-phase-1</id>
-   <content type="html">&lt;p&gt;Phase 1 of the Clintonville Neighborhood Greenways has been funded as part of the 2015 UIRF
-package approved by the City of Columbus and The Clintonville Area Commission. With the funding
-in place, we are now working on the specific design of what will be built.&lt;/p&gt;
-
-&lt;p&gt;This document outlines recommendations for phase 1 of the Clintonville Neighborhood Greenways.
-These recommendations are based on months of researching routes, daily riding through the
-neighborhood, and analysis of other citys’ neighborhood greenway projects.&lt;/p&gt;
-
-&lt;h2 id=&quot;general-design-guidelines&quot;&gt;General Design Guidelines&lt;/h2&gt;
-
-&lt;p&gt;Neighborhood greenways consist of the following elements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;A distinctive look&lt;/strong&gt; so that all road users are aware of the neighborhood greenway.
-People driving are alerted that the street is prioritized for biking and walking.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Treatments to reduce vehicle speed and volume as needed.&lt;/strong&gt; The goal is to keep 85th
-percentile speed under 25mph and ADT under 1000 cars per day.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Improved treatments at arterials&lt;/strong&gt; to help people biking and walking cross more easily.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Free-flow travel for people biking and walking&lt;/strong&gt; by assigning the right-of-way to the
-neighborhood greenway at intersections wherever possible.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Way-finding signs&lt;/strong&gt; guiding people along the route and letting people know what is
-nearby, for example parks, schools, and local businesses.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;strategy&quot;&gt;Strategy&lt;/h2&gt;
-
-&lt;p&gt;Something about measuring stress metrics and only doing treatments when needed.&lt;/p&gt;
-
-&lt;h2 id=&quot;map-and-point-by-point-recommendations&quot;&gt;Map and Point-by-point Recommendations&lt;/h2&gt;
-
-&lt;p&gt;TODO&lt;/p&gt;
-
-&lt;h2 id=&quot;other-citys-design-guidelines&quot;&gt;Other city’s design guidelines&lt;/h2&gt;
-
-&lt;p&gt;Berkeley CA and Portland OR both have successful neighborhood greenway networks. The success
-of their networks makes these cities good models to follow.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Berkeley, CA&lt;/strong&gt;
-&lt;a href=&quot;http://www.cityofberkeley.info/Public_Works/Transportation/Bicycle_Boulevard_Guidelines.aspx&quot; target=&quot;_blank&quot;&gt;Bicycle Boulevard Design Tools and Guidelines&lt;/a&gt;&lt;br /&gt;
-&lt;strong&gt;Portland, OR&lt;/strong&gt;
-&lt;a href=&quot;http://www.pdx.edu/ibpi/sites/www.pdx.edu.ibpi/files/BicycleBoulevardGuidebook%28optimized%29.pdf&quot; target=&quot;_blank&quot;&gt;Fundamentals of Bicycle Boulevard Planning &amp;amp; Design&lt;/a&gt;
-&lt;span class=&quot;muted&quot; style=&quot;font-size:80%&quot;&gt;(PDF 5.2 MB)&lt;/span&gt;&lt;/p&gt;
-
 </content>
  </entry>
  
