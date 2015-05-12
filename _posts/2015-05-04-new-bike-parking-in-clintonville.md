@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: "Plentiful Bike Parking in Clintonville"
+title: "New Bike Parking in Clintonville"
 subtitle: "Something great about bike parking"
 cover_image: shops-along-high-street-in-clintonville.jpg
 cover_image_caption: "Shops along High Street in Clintonville. Photo: Will Koehler"
@@ -17,7 +17,9 @@ author:
 ---
 <b>This should be short and simple:</b>
 
--   Explain the benefits of bike parking.
+-   Explain the benefits of bike parking. See <http://www.citylab.com/commute/2012/12/cyclists-and-pedestrians-can-end-spending-more-each-month-drivers/4066/>
+    “...bikers actually out-consumed drivers over the course of a month. True, they often spent less per visit. But cyclists and pedestrians in particular made more frequent trips (by their own estimation) to these restaurants, bars and convenience stores, and those receipts added up."
+
 -   Explain how we're working with the city and local businesses to add more bike parking.
 -   Maybe a story? After talking with Alex, Clintonville Outfitters requested a bike rack from the city
     they're already installed.
@@ -25,6 +27,5 @@ author:
 
 <b>Also TODO:</b>
 
--   Think of a better title.
--   Create a subtitle.
--   Write an excerpt for the home page.
+-   Think of a subtitle.
+-   Excerpt for the home page.
