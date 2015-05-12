@@ -161,14 +161,15 @@ of cars.
 ## Intersection of Weisheimer Road and High Street
 
 This intersection is offset <span class='muted smaller'>('H' on map)</span>. However, since there
-is a 4-way traffic signal, it would be possible to <b>re-align the intersection for bikes</b> with
-cooperation from the property owners on the east side of High St. The north-east corner of
-Weisheimer and High is being redeveloped. So this is a perfect opportunity to start the discussion.
+is a 4-way traffic signal, it would be possible to <b>re-align the intersection for bikes</b>. This
+could be done by converting one of the bank exit lanes to a two-way bike lane, or by adding a two-way
+bike lane to the north of the bank exit. The north-east corner of Weisheimer and High is being
+redeveloped, so this is a perfect opportunity to start the discussion.
 
 A second option would be to <b>improve the sidewalk on the east side of High Street</b> and route
 bikes along the sidewalk in front of the business. This creates a conflict point with cars
-turning onto E. Weisheimer Road. The conflict could be eliminated with a choker entrance preventing
-turns off of High St onto E. Weisheimer Rd.
+turning from High Street onto E. Weisheimer Road. The conflict could be eliminated with a choker
+entrance preventing turns onto E. Weisheimer Rd.
 
 <div class="full rounded shadow"><img src="/images/phase-1/intersection-of-weisheimer-and-high.jpg"></div>
 
