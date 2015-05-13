@@ -41,9 +41,9 @@ Neighborhood greenways consist of the following elements:
   
 ##Strategy
 
-Our strategy for building the neighborhood greenway is to start with the simplest
+Our strategy for building the Neighborhood Greenways is to start with the simplest
 infrastructure that achieves our design goals (known in the tech world as a "minimal
-viable product"). We will then monitor the success of the neighborhood greenways and
+viable product"). We will then monitor the success of the Neighborhood Greenways and
 evolve and improve the design as needed.
 
 In our case, the minimal viable product is a network of neighborhood roads that feel safe for
@@ -71,7 +71,7 @@ Greenways so that minimal changes will be required.
 ## Calumet Street
 
 Calumet Street <span class='muted smaller'>('A' on map)</span> is the biggest challenge on the
-neighborhood greenway route. Traffic volume is 2200 cars/day - twice what we would like. 85th
+Neighborhood Greenways route. Traffic volume is 2200 cars/day - twice what we would like. 85th
 percentile speed is 33mph in some places - well above our goal of 25mph. Calumet is a neighborhood
 collector, which means traffic restrictions would be difficult. Because on-street parking is widely
 used, we cannot make room for bike lanes.
@@ -121,7 +121,7 @@ There is a side path that parallels Hollenback. This path is narrow and the surf
 uneven. There are several conflict points where the path crosses driveways. Getting on and
 off the path also requires crossing traffic.
 
-While some people may choose to use the side path, the neighborhood greenway route should use
+While some people may choose to use the side path, the Neighborhood Greenways route should use
 Hollenback and should be marked with sharrows.
 
 <div class="full rounded shadow"><img src="/images/phase-1/hollenback-road.jpg"></div>
@@ -148,13 +148,13 @@ exit following the desired direction of travel <span class='muted smaller'>('F' 
 ## Intersection of Olentangy Blvd and Henderson Road
 
 The light cycle at this intersection <span class='muted smaller'>('G' on map)</span> is very long.
-This adds significant delay to trips on the neighborhood greenway route. It also causes a large
+This adds significant delay to trips on the Neighborhood Greenways route. It also causes a large
 number of cars to queue up on Olentangy Blvd during rush hour. <b>Evaluate shortening the light
-cycle</b> to reduce delay for neighborhood greenway traffic.
+cycle</b> to reduce delay for Neighborhood Greenways traffic.
 
 <b>Evaluate the intersection for bike boxes</b>. Generally people drive cautiously at this
 intersection and there are very few conflicts between cars and bike and pedestrians. However
-as the neighborhood greenway traffic increases, bike boxes would allow people biking to clear
+as the Neighborhood Greenways traffic increases, bike boxes would allow people biking to clear
 the intersection quickly at the start of the light cycling instead of mixing with a large line
 of cars.
 
@@ -189,7 +189,7 @@ entrance preventing turns onto E. Weisheimer Rd.
 
 ## Street signs and way-finding signs
 
-Branded street signs and way-finding signs add awareness of the Neighborhood Greenway route.
+Branded street signs and way-finding signs add awareness of the neighborhood greenway route.
 Examples of neighborhood greenway street signs.
 
 <div class="full rounded shadow"><img src="/images/phase-1/street-signs.jpg"></div>
