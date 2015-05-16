@@ -56,16 +56,24 @@
   }
   
   // stack three-wide blocks on top of each other
-  article.home .three-wide {
-    text-align: center;
-    margin-left: 0;
-    margin-right: 0;
-    .cell {
-      width: 45%;
-      margin-left: 27.5%;
-      margin-right: 27.5%;
-      padding-bottom: 2em;
-      &:last-child { padding-bottom: 0 };
+  article.home
+  {
+    header { margin-bottom: -2em; }
+    .three-wide {
+      text-align: center;
+      margin-left: 0;
+      margin-right: 0;
+      .cell {
+        width: 45%;
+        margin-left: 27.5%;
+        margin-right: 27.5%;
+        padding-bottom: 2em;
+        &:last-child { padding-bottom: 0 };
+        img {
+          margin-top: 1.5em;
+          margin-bottom: 1.5em;
+        }
+      }
     }
   }
     
@@ -101,6 +109,7 @@
       width: 60%;
       margin-left: 20%;
       margin-right: 20%;
+      img { height: 110px; }
     }
   }
   
