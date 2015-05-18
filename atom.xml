@@ -4,7 +4,7 @@
  <title>Clintonville Neighborhood Greenways</title>
  <link href="http://clintonvillegreenways.org/atom.xml" rel="self"/>
  <link href="http://clintonvillegreenways.org"/>
- <updated>2015-05-18T14:06:37-04:00</updated>
+ <updated>2015-05-18T18:39:32-04:00</updated>
  <id>http://clintonvillegreenways.org/atom.xml</id>
  <author>
    <name>Will Koehler</name>
@@ -25,6 +25,26 @@ of working on a detailed route and design with the City of Columbus.&lt;/p&gt;
 Neighborhood Greenways. It’s intended to be a starting point for the detailed designs that
 will be developed by the City of Columbus.&lt;/p&gt;
 
+&lt;h2 id=&quot;strategy&quot;&gt;Strategy&lt;/h2&gt;
+
+&lt;p&gt;Our strategy for building the Neighborhood Greenways is to start with the minimal
+infrastructure that achieves our design goals (known in the tech world as a “minimal
+viable product”). We will then monitor the success of the Neighborhood Greenways and
+evolve and improve the design as needed.&lt;/p&gt;
+
+&lt;p&gt;In our case, the minimal viable product is a network of neighborhood roads that feel safe for
+all ages and abilities. This boils down to the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Traffic speed under 25mph&lt;/li&gt;
+  &lt;li&gt;Traffic volume less than 1000 cars/day&lt;/li&gt;
+  &lt;li&gt;People feel relaxed and safe biking and walking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All these metrics can be measured, recorded, and tracked over time. If we meet our goals, no
+additional treatments are needed. If we don’t meet our goals then additional treatments can
+be considered.&lt;/p&gt;
+
 &lt;h2 id=&quot;general-design-guidelines&quot;&gt;General Design Guidelines&lt;/h2&gt;
 
 &lt;p&gt;Neighborhood greenways consist of the following elements:&lt;/p&gt;
@@ -40,26 +60,6 @@ neighborhood greenway at intersections wherever possible.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Way-finding signs&lt;/strong&gt; guiding people along the route and letting them know what is
 nearby, for example parks, schools, and local businesses.&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&quot;strategy&quot;&gt;Strategy&lt;/h2&gt;
-
-&lt;p&gt;Our strategy for building the Neighborhood Greenways is to start with the simplest
-infrastructure that achieves our design goals (known in the tech world as a “minimal
-viable product”). We will then monitor the success of the Neighborhood Greenways and
-evolve and improve the design as needed.&lt;/p&gt;
-
-&lt;p&gt;In our case, the minimal viable product is a network of neighborhood roads that feel safe for
-all ages and abilities. This boils down to the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Traffic speed under 25mph&lt;/li&gt;
-  &lt;li&gt;Traffic volume less than 1000 cars/day&lt;/li&gt;
-  &lt;li&gt;People feel relaxed and safe biking and walking&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;All these metrics can be measured, recorded, and tracked over time. If we meet our goals, no
-additional treatments are needed. If we don’t meet our goals then additional treatments such as
-speed bumps, traffic circles, traffic diverters, etc can be considered.&lt;/p&gt;
 
 &lt;h1 id=&quot;route-and-design-recommendations&quot;&gt;Route and design recommendations&lt;/h1&gt;
 
@@ -157,9 +157,9 @@ number of cars to queue up on Olentangy Blvd during rush hour. &lt;b&gt;Evaluate
 cycle&lt;/b&gt; to reduce delay for Neighborhood Greenways traffic.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Evaluate the intersection for bike boxes&lt;/b&gt;. Generally people drive cautiously at this
-intersection and there are very few conflicts between cars and bike and pedestrians. However
+intersection and there are very few conflicts between cars, bikes and pedestrians. However
 as the Neighborhood Greenways traffic increases, bike boxes would allow people biking to clear
-the intersection quickly at the start of the light cycling instead of mixing with a large line
+the intersection quickly at the start of the light cycling instead of mixing with a line
 of cars.&lt;/p&gt;
 
 &lt;h2 id=&quot;intersection-of-weisheimer-road-and-high-street&quot;&gt;Intersection of Weisheimer Road and High Street&lt;/h2&gt;
