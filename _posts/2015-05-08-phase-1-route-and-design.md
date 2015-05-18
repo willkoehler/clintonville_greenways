@@ -13,7 +13,6 @@ excerpt: "Phase 1 of the Clintonville Neighborhood Greenways has been funded! We
 
 author:
   name: Will Koehler
-  twitter: wckoehler
   bio: Clintonville resident and active transportation enthusiast.
   image: wk.jpg
 
