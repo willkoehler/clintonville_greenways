@@ -24,6 +24,24 @@ This is a working document outlining our recommendations for Phase 1 of the Clin
 Neighborhood Greenways. It's intended to be a starting point for the detailed designs that
 will be developed by the City of Columbus.
 
+##Strategy
+
+Our strategy for building the Neighborhood Greenways is to start with the minimal
+infrastructure that achieves our design goals (known in the tech world as a "minimal
+viable product"). We will then monitor the success of the Neighborhood Greenways and
+evolve and improve the design as needed.
+
+In our case, the minimal viable product is a network of neighborhood roads that feel safe for
+all ages and abilities. This boils down to the following:
+
+- Traffic speed under 25mph
+- Traffic volume less than 1000 cars/day
+- People feel relaxed and safe biking and walking
+
+All these metrics can be measured, recorded, and tracked over time. If we meet our goals, no
+additional treatments are needed. If we don't meet our goals then additional treatments can
+be considered.
+
 ##General Design Guidelines
 
 Neighborhood greenways consist of the following elements:
@@ -38,24 +56,6 @@ Neighborhood greenways consist of the following elements:
 -   **Way-finding signs** guiding people along the route and letting them know what is
     nearby, for example parks, schools, and local businesses.
   
-##Strategy
-
-Our strategy for building the Neighborhood Greenways is to start with the simplest
-infrastructure that achieves our design goals (known in the tech world as a "minimal
-viable product"). We will then monitor the success of the Neighborhood Greenways and
-evolve and improve the design as needed.
-
-In our case, the minimal viable product is a network of neighborhood roads that feel safe for
-all ages and abilities. This boils down to the following:
-
-- Traffic speed under 25mph
-- Traffic volume less than 1000 cars/day
-- People feel relaxed and safe biking and walking
-
-All these metrics can be measured, recorded, and tracked over time. If we meet our goals, no
-additional treatments are needed. If we don't meet our goals then additional treatments such as
-speed bumps, traffic circles, traffic diverters, etc can be considered.
-
 # Route and design recommendations
 
 The Phase 1 route was chosen to connect to all parts of Clintonville while remaining easy to
@@ -75,7 +75,7 @@ percentile speed is 33mph in some places - well above our goal of 25mph. Calumet
 collector, which means traffic restrictions would be difficult. Because on-street parking is widely
 used, we cannot make room for bike lanes.
 
-<b>Create well-defined travel lanes.</b> Stipe out an 8' parking lane with a white line. Add a yellow
+<b>Create well-defined travel lanes.</b> Stripe out an 8' parking lane with a white line. Add a yellow
 center line. This will define the travel lanes and visually narrow the road, which has been shown to
 slow down traffic.
 
@@ -152,9 +152,9 @@ number of cars to queue up on Olentangy Blvd during rush hour. <b>Evaluate short
 cycle</b> to reduce delay for Neighborhood Greenways traffic.
 
 <b>Evaluate the intersection for bike boxes</b>. Generally people drive cautiously at this
-intersection and there are very few conflicts between cars and bike and pedestrians. However
+intersection and there are very few conflicts between cars, bikes and pedestrians. However
 as the Neighborhood Greenways traffic increases, bike boxes would allow people biking to clear
-the intersection quickly at the start of the light cycling instead of mixing with a large line
+the intersection quickly at the start of the light cycling instead of mixing with a line
 of cars.
 
 ## Intersection of Weisheimer Road and High Street
