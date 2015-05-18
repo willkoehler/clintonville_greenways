@@ -14,18 +14,19 @@ article.home {
   
   .three-wide {
     overflow: hidden;
-    margin-top: 2em;
-    margin-bottom: 4em;
-    margin-left: -8%;
-    margin-right: -8%;
-
+    margin: 2em -1.5em 3em -1.5em;
+    text-align: justify;    // evenly distribute cells across available space
+    // Ensures there are at least 2 lines of text, so justification works
+    &:after {
+      content: '';
+      width: 100%;
+      display: inline-block;
+    }
     .cell {
       display: inline-block;
-      vertical-align: top;
-      width: 30%;
-      margin-left: 1.42%;
-      margin-right: 1.42%;
+      width: 200px;
       font-size: 16px;
+      text-align: center;
       img {
         display: block;
         height: 130px;
