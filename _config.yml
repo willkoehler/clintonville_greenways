@@ -9,7 +9,7 @@ info:
   # google_font: 'Droid+Sans:400,700'
   
 # Root URL where the site will be published
-url: http://staging.clintonvillegreenways.org
+url: http://clintonvillegreenways.org
 # safe mode must be disabled to use jekyll-assets.
 safe: false
 # Using 0.0.0.0 allows us to access site through sapphire.local or localhost or 127.0.0.1
