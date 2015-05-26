@@ -134,6 +134,9 @@
     }
   }
 
+  // tweak position of cover image
+  .page-cover.home { background-position: 50% 0px; }
+
   // hide home menu item
   .site-header nav #home_menu_item { display: none; }
 }
