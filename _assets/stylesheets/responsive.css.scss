@@ -133,4 +133,7 @@
       img { margin-right: 10px; }
     }
   }
+
+  // hide home menu item
+  .site-header nav #home_menu_item { display: none; }
 }
