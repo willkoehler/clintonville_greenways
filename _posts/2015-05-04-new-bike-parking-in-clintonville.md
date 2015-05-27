@@ -12,7 +12,7 @@ excerpt: "Clintonville Neighborhood Greenways is working with local businesses
 
 author:
   name: Francesca McLin
-  bio: Clintonville resident and active transportation advocate.
+  bio: Clintonville resident and everyday cycling enthusiast.
   image: fm.jpg
 ---
 
