@@ -29,7 +29,14 @@ layout: base
     <footer>
       <address>
         {% if page.author.image %}<img src="/images/{{ page.author.image }}">{% endif %}
-        <p>Written by <strong>{{ page.author.name }}</a></strong><br>
+        <p>Written by
+          <strong>
+            {% if page.author.url %}
+              <a href='{{ page.author.url }}'>{{ page.author.name }}</a>
+            {% else %}
+              {{ page.author.name }}
+            {% endif %}
+          </strong><br>
           <span class="muted">{{ page.author.bio }}</span>
         </p>
       </address>
