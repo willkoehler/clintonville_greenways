@@ -27,6 +27,7 @@ people that arrive by car. Everyone benefits.
 
 <div class="full rounded shadow"><img src="/images/bike-parking/bike-parking-in-clintonville.jpg"></div>
 
+<a id='instructions'></a>
 Clintonville Neighborhood Greenways is working with local businesses and the City of Columbus to add
 more bike parking in Clintonville. We are sending volunteers to local businesses to show them how
 easy it is to request a free bike rack from the city.
