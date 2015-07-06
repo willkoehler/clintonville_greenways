@@ -158,6 +158,8 @@ as the Neighborhood Greenways traffic increases, bike boxes would allow people b
 the intersection quickly at the start of the light cycling instead of mixing with a line
 of cars.
 
+<a id='weisheimer'></a>
+
 ## Intersection of Weisheimer Road and High Street
 
 This intersection is offset <span class='muted smaller'>('H' on map)</span>. However, since there
