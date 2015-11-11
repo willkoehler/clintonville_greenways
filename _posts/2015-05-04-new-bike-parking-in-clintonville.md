@@ -47,6 +47,6 @@ from the city is easy:
 4.  <b>Welcome customers on bikes to park in front of your business!</b>
 
 Have a question about how bike parking can improve your business and make our neighborhood more livable?
-Contact us at: <a href='mailto:info@clintonvillegreenways.org?subject=Question about Bike Parking in Clintonville'>info@clintonvillegreenways.org</a>
+Contact us at: <a href='mailto:hello@clintonvillegreenways.org?subject=Question about Bike Parking in Clintonville'>hello@clintonvillegreenways.org</a>
 
 
