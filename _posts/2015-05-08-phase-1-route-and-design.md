@@ -25,7 +25,7 @@ This is a working document outlining our recommendations for Phase 1 of the Clin
 Neighborhood Greenways. It's intended to be a starting point for the detailed designs that
 will be developed by the City of Columbus.
 
-##Strategy
+## Strategy
 
 Our strategy for building the Neighborhood Greenways is to start with the minimal
 infrastructure that achieves our design goals (known in the tech world as a "minimal
@@ -43,7 +43,7 @@ All these metrics can be measured, recorded, and tracked over time. If we meet o
 additional treatments are needed. If we don't meet our goals then additional treatments can
 be considered.
 
-##General Design Guidelines
+## General Design Guidelines
 
 Neighborhood greenways consist of the following elements:
 

@@ -30,7 +30,7 @@ By incorporating advice from the city bike coordinator and local advocates, the 
 ways to improve on designs that they've used in the past. The goal is to make Clintonville Neighborhood
 Greenways a model street network that will serve as a template for neighborhoods throughout Columbus.
 
-##Join our volunteer teams
+## Join our volunteer teams
 
 In other news, we’re creating teams to take on specific tasks as we move closer to
 building the greenways. In the months to come, we’ll be working on outreach to Clintonville
@@ -48,7 +48,7 @@ If you’re interested in pitching in as a volunteer, please sign up here:
 
 [Clintonville Neighborhood Greenway Signup](https://docs.google.com/forms/d/17w5HG4pIi6R9qV0zsFzMHERkVXj2713ZYTg59iF8q6Y/viewform?usp=send_form)
 
-##We're working towards 501(c)(3) status
+## We're working towards 501(c)(3) status
 
 Our application for 501(c)(3) status is coming along. Status as a tax-exempt organization
 will make advocacy and raising money easier. We’re fortunate to already have several experienced

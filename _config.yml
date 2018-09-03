@@ -10,22 +10,27 @@ info:
   
 # Root URL where the site will be published
 url: http://clintonvillegreenways.org
+
 # safe mode must be disabled to use jekyll-assets.
 safe: false
+
 # Using 0.0.0.0 allows us to access site through sapphire.local or localhost or 127.0.0.1
 host: 0.0.0.0
 
-# jekyll-assets: see more at https://github.com/ixti/jekyll-assets
+# Only re-builds posts and pages that have changed
+### Disabled because it doesn't seem to play well with jekyll-assets ###
+# incremental: true
+
+# jekyll-assets: see more at https://github.com/envygeeks/jekyll-assets
 assets:
   dirname: assets
   baseurl: /assets/
+  gzip: [ text/css, application/javascript ]
   sources:
     - _assets/javascripts
     - _assets/stylesheets
     - _assets/images
-  js_compressor: uglifier
-  css_compressor: sass
-  cachebust: none
-  cache: false
-  gzip: [ text/css, application/javascript ]
-  debug: false
+  caching:
+    path: ".jekyll-cache/assets"
+    type: file
+    enabled: true
