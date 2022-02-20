@@ -11,7 +11,7 @@ article.home {
     margin-bottom: 4em;
     &:after { content: none; }
   }
-  
+
   .three-wide {
     overflow: hidden;
     margin: 2em -1.5em 3em -1.5em;
@@ -42,20 +42,20 @@ article.home {
       }
     }
   }
-  
+
   .signoff {
     text-align: center;
     margin: 3em 0 3em 0;
-    
+
     img {
       width: 85%;
       max-width: 450px;
     }
-    
+
     .caption {
       color: $textmuted;
       margin-top: .25em;
       font-size: 14px;
     }
-  }  
+  }
 }

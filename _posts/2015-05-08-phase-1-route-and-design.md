@@ -56,7 +56,7 @@ Neighborhood greenways consist of the following elements:
     neighborhood greenway at intersections wherever possible.
 -   **Way-finding signs** guiding people along the route and letting them know what is
     nearby, for example parks, schools, and local businesses.
-  
+
 # Route and design recommendations
 
 The Phase 1 route was chosen to connect to all parts of Clintonville while remaining easy to

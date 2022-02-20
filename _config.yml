@@ -1,13 +1,13 @@
 info:
   title: "Clintonville Neighborhood Greenways"
-  
+
   # Google Analytics tracking ID. Leave blank to disable tracking
   google-analytics-id: 'UA-54124306-2'
-  
+
   # Google Fonts
   # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
   # google_font: 'Droid+Sans:400,700'
-  
+
 # Root URL where the site will be published
 url: http://clintonvillegreenways.org
 
