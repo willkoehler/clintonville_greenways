@@ -179,6 +179,25 @@ article {
     &.map_container { margin-bottom: 2em; }   // needed because iframe floats in map_container
   }
 
+  figure.fit {
+    margin: 1.5em 0em;
+
+    img {
+      max-width:100%;
+      margin:0;
+    }
+
+    &.rounded img { border-radius:6px; }
+    figcaption {
+      color: $textmuted;
+      font-size: 1em;
+      margin-bottom: 0.3em
+    }
+  }
+
+  .small { font-size: 0.8em }
+
+
   // Add a extra margin so spacing between iframes and images and text matches spacing
   // between text blocks. Text blocks have extra spacing because of the line height.
   p > img, .full > img, .full > iframe {
