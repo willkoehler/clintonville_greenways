@@ -1,0 +1,1 @@
+(function(){var n,e,o;$(function(){if(screen.width>=768)return o()}),o=function(){return $(".map_container .overlay").click(n)},n=function(){return $(".map_container .overlay").hide(),$("body").one("mousemove",e),!1},e=function(){return $(".map_container .overlay").show()}}).call(this);

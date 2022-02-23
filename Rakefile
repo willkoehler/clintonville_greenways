@@ -7,23 +7,23 @@ namespace :site do
   desc "Generate blog files"
   task :generate do
     Jekyll::Site.new(Jekyll.configuration({
-      "source"      => ".",
+      "source" => ".",
       "destination" => "_site"
     })).process
   end
 
   desc "Generate and publish blog to gh-pages"
-  task :publish => [:generate] do
+  task publish: [:generate] do
     Dir.mktmpdir do |tmp|
       # Move site that we just built into temp folder
       system "mv _site/* #{tmp}"
       # Swith to gh-pages branch.
       if system "git show-ref --verify --quiet refs/heads/gh-pages"
-        system "git checkout gh-pages"            # checkout existing branch
+        system "git checkout gh-pages" # checkout existing branch
       else
-        system "git checkout --orphan gh-pages"   # create new branch with no history
+        system "git checkout --orphan gh-pages" # create new branch with no history
       end
-      next if $?.exitstatus != 0      # abort if checkout failed
+      next if $?.exitstatus != 0 # abort if checkout failed
       # Delete everything (entire contents of the project folder include source code)
       # This gives us a clean folder for the gh-pages branch
       system "rm -rf *"

@@ -1,12 +1,84 @@
----
-layout: base
-title: "Updates"
-excerpt: "Latest news on the Clintonville Neighborhood Greenways."
-cover_image: whetstone-park-of-roses-bike-shelter.jpg
-cover_image_caption: "Bike Shelter in Whetstone Park. Photo: Will Koehler"
----
-<div class="page-cover" style="background-image:url(/images/{{ page.cover_image }});background-position:50% 35%;"></div>
-<div class='cover-caption'>{{ page.cover_image_caption }}</div>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Updates - Clintonville Neighborhood Greenways</title>
+  <!--[if lt IE 9]><script src='https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js'></script><![endif]-->
+  
+  <link rel="stylesheet" type="text/css" href="/assets/app-b5b977336eeb6bf7c615fe216ff47a674503ca161c367b85aa6e248335a3517f.css" integrity="sha256-tbl3M27ra/fGFf4hb/R6Z0UDyhYcNnuFqm4kgzWjUX8=" crossorigin="anonymous">
+  <!-- jQuery -->
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<!-- Local Javascript -->
+<script integrity="sha256-NicUBGFo2HTAOniWIwzJpbB+GJkKRw4qPimyOG+2EAw=" crossorigin="anonymous" src="/assets/app-362714046168d874c03a7896230cc9a5b07e18990a470e2a3e29b2386fb6100c.js" type="text/javascript"></script>
+
+<!-- Twitter -->
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+
+<!-- Facebook -->
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.1&appId=358848024271860';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-54124306-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){window.dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-54124306-2');
+</script>
+
+
+  <link rel="shortcut icon" href="/favicon.ico?v4" type="image/x-icon" />
+  <link rel="alternate" type="application/atom+xml" title="Clintonville Neighborhood Greenways" href="/atom.xml" />
+  <link rel="canonical" href="http://clintonvillegreenways.org/updates.html">
+  <meta property="og:title" content="Updates"/>
+  <meta property="og:url" content="http://clintonvillegreenways.org/updates.html"/>
+  <meta property="og:image" content="http://clintonvillegreenways.org/images/whetstone-park-of-roses-bike-shelter.jpg"/>
+  
+  <meta property="og:description" content="Latest news on the Clintonville Neighborhood Greenways."/>
+  <meta name="description" content="Latest news on the Clintonville Neighborhood Greenways."/>
+  
+  <meta property="og:site_name" content="Clintonville Neighborhood Greenways">
+</head>
+<body>
+
+  <header class="site-header">
+    <nav>
+      <div class='tagline'>Streets for Everyone</div>
+      <a class="brand" href="/">
+        <img src="/images/logo.png">
+      </a>
+      <a href="/" id="home_menu_item">Home</a>
+      <a href="/updates.html">Updates</a>
+      <a href="/faq.html">FAQ</a>
+      <a href="/#about">About</a>
+    </nav>
+  </header>
+
+  <div class="page-cover" style="background-image:url(/images/whetstone-park-of-roses-bike-shelter.jpg);background-position:50% 35%;"></div>
+<div class='cover-caption'>Bike Shelter in Whetstone Park. Photo: Will Koehler</div>
 
 <article class="updates">
   <div class="container">
@@ -18,18 +90,73 @@ cover_image_caption: "Bike Shelter in Whetstone Park. Photo: Will Koehler"
       </header>
       <hr>
     </section>
-    {% for post in site.posts %}
+    
     <section class="post_summary">
-      <h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
+      <h2 class="title"><a href="/2022/02/20/shared-use-paths-connect-neighborhoods-throughout-columbus.html" rel="prefetch">Shared Use Paths Connect Neighborhoods Throughout Columbus</a></h2>
+      <p>Shared use paths are used throughout Columbus to connect neighborhoods to each other and to nearby trail systems. These connections make the neighborhoods safer and more desireable to live in.</p>
       <div class="meta">
-        <address>{{ post.author.name }}</address> &mdash;
-        <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%b %d, %Y" }}">{{ post.date | date: "%b %d, %Y" }}</time> &mdash;
-        {% include read_time_estimate.html content=post.content %}
+        <address>Will Koehler</address> &mdash;
+        <time pubdate datetime="2022-20-February" title="Feb 20, 2022">Feb 20, 2022</time> &mdash;
+        
+3 min read
       </div>
       <hr>
     </section>
-    {% endfor %}
+    
+    <section class="post_summary">
+      <h2 class="title"><a href="/2016/01/08/winter-2016-progress-update.html" rel="prefetch">Winter 2016 Progress Update</a></h2>
+      <p>We're happy to report that the route and design for phase 1 of the Clintonville Neighborhood Greenways are being developed in partnership with the city.</p>
+      <div class="meta">
+        <address>Will Koehler</address> &mdash;
+        <time pubdate datetime="2016-08-January" title="Jan 08, 2016">Jan 08, 2016</time> &mdash;
+        
+2 min read
+      </div>
+      <hr>
+    </section>
+    
+    <section class="post_summary">
+      <h2 class="title"><a href="/2015/05/08/phase-1-route-and-design.html" rel="prefetch">Phase 1 Route and Design</a></h2>
+      <p>Phase 1 of the Clintonville Neighborhood Greenways has been funded! We are in the process of working on a detailed route and design with the City of Columbus. These are our recommendations.</p>
+      <div class="meta">
+        <address>Will Koehler</address> &mdash;
+        <time pubdate datetime="2015-08-May" title="May 08, 2015">May 08, 2015</time> &mdash;
+        
+10 min read
+      </div>
+      <hr>
+    </section>
+    
+    <section class="post_summary">
+      <h2 class="title"><a href="/2015/05/04/new-bike-parking-in-clintonville.html" rel="prefetch">New Bike Parking in Clintonville</a></h2>
+      <p>Clintonville Neighborhood Greenways is working with local businesses and the City of Columbus to add more bike parking in Clintonville.</p>
+      <div class="meta">
+        <address>Francesca McLin</address> &mdash;
+        <time pubdate datetime="2015-04-May" title="May 04, 2015">May 04, 2015</time> &mdash;
+        
+2 min read
+      </div>
+      <hr>
+    </section>
+    
   </div>
 </article>
 
+
+
+  <footer class="site-footer">
+    <div class="container">
+      CNG
+
+      <nav>
+        <a href="/">Home</a> &middot;
+        <a href="/updates.html">Updates</a> &middot;
+        <a href="/faq.html">FAQ</a>
+      </nav>
+
+      <div>Based on Incorporated theme by <a href="https://sendtoinc.com">Inc</a></div>
+    </div>
+  </footer>
+
+</body>
+</html>

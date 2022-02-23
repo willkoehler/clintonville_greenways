@@ -1,27 +1,544 @@
----
----
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>{{ site.info.title }}</title>
- <link href="{{ site.url }}/atom.xml" rel="self"/>
- <link href="{{ site.url }}"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.url }}/atom.xml</id>
+ <title>Clintonville Neighborhood Greenways</title>
+ <link href="http://clintonvillegreenways.org/atom.xml" rel="self"/>
+ <link href="http://clintonvillegreenways.org"/>
+ <updated>2022-02-23T13:09:47-05:00</updated>
+ <id>http://clintonvillegreenways.org/atom.xml</id>
  <author>
    <name>Will Koehler</name>
-   <uri>{{ site.url }}</uri>
+   <uri>http://clintonvillegreenways.org</uri>
  </author>
+
  
- {% for post in site.posts limit:10 %}
  <entry>
-   <title>{{ post.title }}</title>
-   <link href="{{ site.url }}{{ post.url }}"/>
-   <published>{{ post.date | date_to_xmlschema }}</published>
-   <updated>{% if post.last-modified %}{{post.last-modified}}{% else %}{{ post.date | date_to_xmlschema }}{% endif %}</updated>
-   <id>{{ site.url }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <title>Shared Use Paths Connect Neighborhoods Throughout Columbus</title>
+   <link href="http://clintonvillegreenways.org/2022/02/20/shared-use-paths-connect-neighborhoods-throughout-columbus.html"/>
+   <published>2022-02-20T00:00:00-05:00</published>
+   <updated>2022-02-20T12:00:00-04:00</updated>
+   <id>http://clintonvillegreenways.org/2022/02/20/shared-use-paths-connect-neighborhoods-throughout-columbus</id>
+   <content type="html">&lt;p&gt;A component of the Clintonville Neighborhood Greenway is a shared use path that connects
+Rathbone Ave to Jeffrey Place. The path will be constructed on city parkland. Here’s a
+&lt;a href=&quot;https://www.google.com/maps/d/u/0/viewer?mid=1hsT6lhfuUlh2AUk1Lp9lDTgUFNs&amp;amp;ll=40.06238694099186%2C-83.02532179556246&amp;amp;z=17&quot; target=&quot;_blank&quot;&gt;map&lt;/a&gt; of the location and here’s a
+&lt;a href=&quot;/images/connectors/rathbone-jeffrey-place-connector.pdf&quot; target=&quot;_blank&quot;&gt;drawing&lt;/a&gt;
+of what it will look like.&lt;/p&gt;
+
+&lt;p&gt;While this may seem unusual, shared use paths are used throughout Columbus to connect
+neighborhoods to each other and to nearby trail systems. These connections make the neighborhoods
+&lt;a href=&quot;http://www.brucefreemanrailtrail.org/pdf/LA-Metro-Bike-paths-safety-property-values.pdf&quot; target=&quot;_blank&quot;&gt;
+safer and more desireable to live in.
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The neighborhoods are safer because there are more “eyes on the street”. More
+people that live in the neighborhood are out and about and are more likely to see
+and report suspcicious activity. The neighborhoods are more desireable because people
+have more options to move safely around their community. They have more “random
+encounters” with other people, resulting in increased feelings of belonging and
+wellbeing.&lt;/p&gt;
+
+&lt;div style=&quot;height:1em&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;boathouse-drive-to-astral-drive&quot;&gt;Boathouse Drive to Astral Drive&lt;/h2&gt;
+
+&lt;p&gt;This short connector links two neighborhoods in Northwest Columbus.
+&lt;a href=&quot;https://www.google.com/maps/@40.0474495,-83.1164041,17z/data=!5m1!1e3&quot; target=&quot;_blank&quot;&gt;See it on a map&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure class=&quot;fit rounded&quot;&gt;
+  &lt;figcaption&gt;Approaching from the North&lt;/figcaption&gt;
+  &lt;img src=&quot;/images/connectors/boathouse-drive-neighborhood-connector-1.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;fit rounded&quot;&gt;
+  &lt;figcaption&gt;Approaching from the South&lt;/figcaption&gt;
+  &lt;img src=&quot;/images/connectors/boathouse-drive-neighborhood-connector-2.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;div style=&quot;height:1em&quot;&gt;&lt;!--SPACER--&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;lincoln-ave-to-vinewood-drive-i71-overpass&quot;&gt;Lincoln Ave to Vinewood Drive I71 Overpass&lt;/h2&gt;
+
+&lt;p&gt;This I71 overpass provides a vital connection between Salem Village and
+Forest Park in Northest Columbus.
+&lt;a href=&quot;https://www.google.com/maps/@40.0757375,-82.9877547,17z/data=!5m1!1e3&quot; target=&quot;_blank&quot;&gt;See it on a map&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure class=&quot;fit rounded&quot;&gt;
+  &lt;figcaption&gt;Approaching from the West&lt;/figcaption&gt;
+  &lt;img src=&quot;/images/connectors/lincoln-ave-i71-overpass-neighborhood-connector-1.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;fit rounded&quot;&gt;
+  &lt;figcaption&gt;Approaching from the East&lt;/figcaption&gt;
+  &lt;img src=&quot;/images/connectors/lincoln-ave-i71-overpass-neighborhood-connector-2.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;div style=&quot;height:1em&quot;&gt;&lt;!--SPACER--&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;alum-creek-trail-connections&quot;&gt;Alum Creek Trail Connections&lt;/h2&gt;
+
+&lt;p&gt;There are numerous connections between neighborhoods and the Alum creek trail. Some
+are shown below. These connections provide a safe way for people in nearby homes to
+get onto the trail without using a busy road.&lt;/p&gt;
+
+&lt;figure class=&quot;fit rounded&quot;&gt;
+  &lt;figcaption&gt;
+    Westerville Crossing Drive
+    &lt;a href=&quot;https://www.google.com/maps/@40.0867574,-82.9254604,17z/data=!5m1!1e3&quot; target=&quot;_blank&quot;&gt;(map)&lt;/a&gt;
+  &lt;/figcaption&gt;
+  &lt;img src=&quot;/images/connectors/alum-creek-trail-system-westerville-crossing-drive-connector.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;fit rounded&quot;&gt;
+  &lt;figcaption&gt;
+    Hidden Ridge Court
+    &lt;a href=&quot;https://www.google.com/maps/@40.0650967,-82.9206393,17z/data=!5m1!1e3&quot; target=&quot;_blank&quot;&gt;(map)&lt;/a&gt;
+  &lt;/figcaption&gt;
+  &lt;img src=&quot;/images/connectors/alum-creek-trail-system-hidden-ridge-court-connector.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;fit rounded&quot;&gt;
+  &lt;figcaption&gt;
+    Southridge Drive
+    &lt;a href=&quot;https://www.google.com/maps/@40.0409583,-82.9393895,17z/data=!5m1!1e3&quot; target=&quot;_blank&quot;&gt;(map)&lt;/a&gt;
+  &lt;/figcaption&gt;
+  &lt;img src=&quot;/images/connectors/alum-creek-trail-system-southridge-drive-connector.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;div style=&quot;height:1em&quot;&gt;&lt;!--SPACER--&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;worthington-estates-to-olentangy-trail&quot;&gt;Worthington Estates to Olentangy Trail&lt;/h2&gt;
+
+&lt;p&gt;Worthington Estates is connected to the Olentangy Trail in 4 locations (three are shown below).
+These connection provide a safe way for people in Worthington Estates to get onto the
+Olentangy Trail system.
+&lt;a href=&quot;https://www.google.com/maps/@40.0994204,-83.0329385,17z/data=!5m1!1e3&quot; target=&quot;_blank&quot;&gt;See it on a map&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure class=&quot;fit rounded&quot;&gt;
+  &lt;figcaption&gt;Worthington Estates to Olentangy Trail Connections&lt;/figcaption&gt;
+  &lt;img src=&quot;/images/connectors/worthington-estates-olentangy-trail-connector-map.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;fit rounded&quot;&gt;
+  &lt;img src=&quot;/images/connectors/worthington-estates-olentangy-trail-connector-1.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;fit rounded&quot;&gt;
+  &lt;img src=&quot;/images/connectors/worthington-estates-olentangy-trail-connector-2.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;fit rounded&quot;&gt;
+  &lt;img src=&quot;/images/connectors/worthington-estates-olentangy-trail-connector-3.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;div style=&quot;height:1em&quot;&gt;&lt;!--SPACER--&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;dublin-neighborhood-connections&quot;&gt;Dublin Neighborhood Connections&lt;/h2&gt;
+
+&lt;p&gt;Dublin neighborhoods are connected with a large network of shared use paths.
+These connections, most of which pass directly between homes, provide a safe
+way for residents of Dublin to move around their neighborhood.&lt;/p&gt;
+
+&lt;figure class=&quot;fit rounded&quot;&gt;
+  &lt;figcaption&gt;
+    Shared use path connections in Dublin, OH
+    &lt;a href=&quot;https://www.google.com/maps/@40.1393509,-83.1353357,17z/data=!5m1!1e3&quot; target=&quot;_blank&quot;&gt;(see it on a map)&lt;/a&gt;
+  &lt;/figcaption&gt;
+  &lt;img src=&quot;/images/connectors/dublin-oh-trail-system-neighborhood-connector-map-1.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;fit rounded&quot;&gt;
+  &lt;figcaption&gt;
+    Shared use path connections in Dublin, OH
+    &lt;a href=&quot;https://www.google.com/maps/@40.1498429,-83.1438725,17z/data=!5m1!1e3&quot; target=&quot;_blank&quot;&gt;(see it on a map)&lt;/a&gt;
+  &lt;/figcaption&gt;
+  &lt;img src=&quot;/images/connectors/dublin-oh-trail-system-neighborhood-connector-map-2.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;fit rounded&quot;&gt;
+  &lt;figcaption&gt;Glenfinnan Court&lt;/figcaption&gt;
+  &lt;img src=&quot;/images/connectors/dublin-oh-trail-system-neighborhood-connector-1.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;fit rounded&quot;&gt;
+  &lt;figcaption&gt;Hawthornden Court&lt;/figcaption&gt;
+  &lt;img src=&quot;/images/connectors/dublin-oh-trail-system-neighborhood-connector-2.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;fit rounded&quot;&gt;
+  &lt;figcaption&gt;Turnberry Court&lt;/figcaption&gt;
+  &lt;img src=&quot;/images/connectors/dublin-oh-trail-system-neighborhood-connector-3.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;fit rounded&quot;&gt;
+  &lt;figcaption&gt;Aryshire Drive&lt;/figcaption&gt;
+  &lt;img src=&quot;/images/connectors/dublin-oh-trail-system-neighborhood-connector-4.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;fit rounded&quot;&gt;
+  &lt;figcaption&gt;Aryshire Drive&lt;/figcaption&gt;
+  &lt;img src=&quot;/images/connectors/dublin-oh-trail-system-neighborhood-connector-5.jpg&quot; /&gt;
+&lt;/figure&gt;
+</content>
  </entry>
- {% endfor %}
  
+ <entry>
+   <title>Winter 2016 Progress Update</title>
+   <link href="http://clintonvillegreenways.org/2016/01/08/winter-2016-progress-update.html"/>
+   <published>2016-01-08T00:00:00-05:00</published>
+   <updated>2016-01-08T12:00:00-04:00</updated>
+   <id>http://clintonvillegreenways.org/2016/01/08/winter-2016-progress-update</id>
+   <content type="html">&lt;p&gt;We’ve met several times with the city over the last 6 months to discuss the Neighborhood Greenways
+route and design. While many of the &lt;a href=&quot;/2015/05/08/phase-1-route-and-design.html&quot;&gt;design recommendations we made for phase 1&lt;/a&gt;
+may seem simple (such as painting green-backed sharrows on the road), they require exemptions from
+the strict rules that determine what types of pavement markings and signs can be used on public roads.
+However, to achieve the safety level of a true neighborhood greenway, we need to use the
+latest design elements. Many other cities are already constructing street networks using these newer
+design elements. If we don’t match their innovations in Columbus, we risk getting left behind.&lt;/p&gt;
+
+&lt;p&gt;Thankfully, the city understands the importance of building a safe neighborhood greenway network.
+By incorporating advice from the city bike coordinator and local advocates, the city is looking for
+ways to improve on designs that they’ve used in the past. The goal is to make Clintonville Neighborhood
+Greenways a model street network that will serve as a template for neighborhoods throughout Columbus.&lt;/p&gt;
+
+&lt;h2 id=&quot;join-our-volunteer-teams&quot;&gt;Join our volunteer teams&lt;/h2&gt;
+
+&lt;p&gt;In other news, we’re creating teams to take on specific tasks as we move closer to
+building the greenways. In the months to come, we’ll be working on outreach to Clintonville
+residents, businesses, schools, and other interested parties to get the word out about the
+coming neighborhood greenways.&lt;/p&gt;
+
+&lt;p&gt;We are creating teams for&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Branding and marketing&lt;/li&gt;
+  &lt;li&gt;Community outreach&lt;/li&gt;
+  &lt;li&gt;Grants and fundraising&lt;/li&gt;
+  &lt;li&gt;Legal and Business&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you’re interested in pitching in as a volunteer, please sign up here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/forms/d/17w5HG4pIi6R9qV0zsFzMHERkVXj2713ZYTg59iF8q6Y/viewform?usp=send_form&quot;&gt;Clintonville Neighborhood Greenway Signup&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;were-working-towards-501c3-status&quot;&gt;We’re working towards 501(c)(3) status&lt;/h2&gt;
+
+&lt;p&gt;Our application for 501(c)(3) status is coming along. Status as a tax-exempt organization
+will make advocacy and raising money easier. We’re fortunate to already have several experienced
+grant writers who will be helping us raise money to further our goals.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Phase 1 Route and Design</title>
+   <link href="http://clintonvillegreenways.org/2015/05/08/phase-1-route-and-design.html"/>
+   <published>2015-05-08T00:00:00-04:00</published>
+   <updated>2015-09-11T12:00:00-04:00</updated>
+   <id>http://clintonvillegreenways.org/2015/05/08/phase-1-route-and-design</id>
+   <content type="html">&lt;p&gt;Phase 1 of the Clintonville Neighborhood Greenways has been funded! We are in the process
+of working on a detailed route and design with the City of Columbus.&lt;/p&gt;
+
+&lt;p&gt;This is a working document outlining our recommendations for Phase 1 of the Clintonville
+Neighborhood Greenways. It’s intended to be a starting point for the detailed designs that
+will be developed by the City of Columbus.&lt;/p&gt;
+
+&lt;h2 id=&quot;strategy&quot;&gt;Strategy&lt;/h2&gt;
+
+&lt;p&gt;Our strategy for building the Neighborhood Greenways is to start with the minimal
+infrastructure that achieves our design goals (known in the tech world as a “minimal
+viable product”). We will then monitor the success of the Neighborhood Greenways and
+evolve and improve the design as needed.&lt;/p&gt;
+
+&lt;p&gt;In our case, the minimal viable product is a network of neighborhood roads that feel safe for
+all ages and abilities. This boils down to the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Traffic speed under 25mph&lt;/li&gt;
+  &lt;li&gt;Traffic volume less than 1000 cars/day&lt;/li&gt;
+  &lt;li&gt;People feel relaxed and safe biking and walking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All these metrics can be measured, recorded, and tracked over time. If we meet our goals, no
+additional treatments are needed. If we don’t meet our goals then additional treatments can
+be considered.&lt;/p&gt;
+
+&lt;h2 id=&quot;general-design-guidelines&quot;&gt;General Design Guidelines&lt;/h2&gt;
+
+&lt;p&gt;Neighborhood greenways consist of the following elements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;A distinctive look&lt;/strong&gt; so that all road users are aware of the neighborhood greenway.
+People driving are alerted that the street is prioritized for biking and walking.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Treatments to reduce vehicle speed and volume as needed.&lt;/strong&gt; The goal is to keep speed
+under 25mph and ADT under 1000 cars per day.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Improved treatments at busy intersections&lt;/strong&gt; to help people biking and walking cross more easily.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Free-flow travel for people biking and walking&lt;/strong&gt; by assigning the right-of-way to the
+neighborhood greenway at intersections wherever possible.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Way-finding signs&lt;/strong&gt; guiding people along the route and letting them know what is
+nearby, for example parks, schools, and local businesses.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;route-and-design-recommendations&quot;&gt;Route and design recommendations&lt;/h1&gt;
+
+&lt;p&gt;The Phase 1 route was chosen to connect to all parts of Clintonville while remaining easy to
+implement. Wherever possible, we chose streets that already met our goals for Neighborhood
+Greenways so that minimal changes will be required.&lt;/p&gt;
+
+&lt;div class=&quot;map_container full&quot;&gt;
+  &lt;a class=&quot;overlay&quot; href=&quot;https://mapsengine.google.com/maps/d/viewer?mid=zEAPhiHiDgA8.kIVN6G1UPcLo&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;
+  &lt;iframe src=&quot;https://mapsengine.google.com/map/u/0/embed?mid=zEAPhiHiDgA8.kIVN6G1UPcLo&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;calumet-street&quot;&gt;Calumet Street&lt;/h2&gt;
+
+&lt;p&gt;Calumet Street &lt;span class=&quot;muted smaller&quot;&gt;(‘A’ on map)&lt;/span&gt; is the biggest challenge on the
+Neighborhood Greenways route. Traffic volume is 2200 cars/day - twice what we would like. 85th
+percentile speed is 33mph in some places - well above our goal of 25mph. Because of the windy
+nature of the road and higher traffic volumes, unsafe passes are common, making this road
+unsuitable in it’s current condition for families and other risk-averse people.&lt;/p&gt;
+
+&lt;p&gt;Calumet is a neighborhood collector, which means traffic restrictions will be difficult. Because
+on-street parking is widely used, especially south of Weber, we cannot make room for bike lanes.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Visually narrow road.&lt;/b&gt; The wider sections of Calumet lead to faster speeds. One option
+is to stripe out an 8’ parking lane. Also evaluate for green infrastructure such as curb bump
+outs in coordination with Columbus Blueprint.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Remove yellow center line.&lt;/b&gt; A yellow center line encourages higher speeds and more
+dangerous passing behavior. Use short sections of yellow center lines only at major intersections
+(Arcadia, Weber, Broadway) and around blind curves.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Use more frequent sharrows.&lt;/b&gt; More frequent sharrows are advised for roads with higher
+traffic volume and speed. Consider sharrows at 75 to 100 foot intervals.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Add “Bikes may use full lane” signs.&lt;/b&gt; These signs are the recommended standard for
+clarifying that bikes are allowed full use of the road. “Share the road” signs should not
+be used.&lt;/p&gt;
+
+&lt;div class=&quot;full rounded shadow&quot;&gt;&lt;img src=&quot;/images/phase-1/calumet.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;intersection-of-torrence-road-and-high-street&quot;&gt;Intersection of Torrence Road and High Street&lt;/h2&gt;
+
+&lt;p&gt;Traffic at this intersection &lt;span class=&quot;muted smaller&quot;&gt;(‘B’ on map)&lt;/span&gt; increased
+significantly after the new Starbucks opened. Although drivers are fairly cautious and aware
+of people biking and walking, the large volume of cars can make navigating this intersection
+tricky.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Add ladder-style crosswalks&lt;/b&gt;. More prominent crosswalks will highlight the Neighborhood
+Greenways crossing, raise awareness of the increased bike and pedestrian traffic, and make
+people walking and biking feel more comfortable.&lt;/p&gt;
+
+&lt;h2 id=&quot;intersection-of-milton-northmoor-and-montrose-way&quot;&gt;Intersection of Milton, Northmoor, and Montrose Way&lt;/h2&gt;
+
+&lt;p&gt;This 6-way intersection &lt;span class=&quot;muted smaller&quot;&gt;(‘C’ on map)&lt;/span&gt; is large and has numerous
+conflict points. While traffic volume is generally low, it can still be tricky to navigate with bikes,
+cars and pedestrians all using the same space.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Add a planted traffic circle.&lt;/b&gt; Traffic entering the circle yields to traffic that’s already in
+the circle.&lt;/p&gt;
+
+&lt;div class=&quot;full rounded shadow&quot;&gt;&lt;img src=&quot;/images/phase-1/six-way.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;intersection-of-milton-and-hollenback&quot;&gt;Intersection of Milton and Hollenback&lt;/h2&gt;
+
+&lt;p&gt;This intersection &lt;span class=&quot;muted smaller&quot;&gt;(‘D’ on map)&lt;/span&gt; is difficult to navigate because
+it’s offset with the exit from the library. Traffic is generally slow and people navigate cautiously.
+The most common conflict is between people turning left from Milton onto Hollenback and people exiting
+the library.&lt;/p&gt;
+
+&lt;p&gt;Long-term this intersection should be re-aligned with the library exit and converted to a 4-way stop.
+For Phase 1 &lt;b&gt;consider adding additional sharrows through the turn&lt;/b&gt; to highlight the presence of bikes.&lt;/p&gt;
+
+&lt;div class=&quot;full rounded shadow&quot;&gt;&lt;img src=&quot;/images/phase-1/intersection-of-milton-and-hollenback.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;hollenback&quot;&gt;Hollenback&lt;/h2&gt;
+
+&lt;p&gt;Hollenback &lt;span class=&quot;muted smaller&quot;&gt;(‘E’ on map)&lt;/span&gt; is a park road. Traffic volume is sometimes
+high, especially on evenings with children’s soccer. However speeds are low and people are alert.&lt;/p&gt;
+
+&lt;p&gt;There is a side path that parallels Hollenback. This path is narrow and the surface is
+uneven. There are several conflict points where the path crosses driveways. Getting on and
+off the path also requires crossing traffic.&lt;/p&gt;
+
+&lt;p&gt;While some people may choose to use the side path, the Neighborhood Greenways route should use
+Hollenback and should be marked with sharrows.&lt;/p&gt;
+
+&lt;div class=&quot;full rounded shadow&quot;&gt;&lt;img src=&quot;/images/phase-1/hollenback-road.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;shelter-house-parking-lot&quot;&gt;Shelter house parking lot&lt;/h2&gt;
+
+&lt;p&gt;The route past the shelter house parking lot &lt;span class=&quot;muted smaller&quot;&gt;(‘F’ on map)&lt;/span&gt;
+is confusing. It appears the road goes straight into the parking lot. There are two parking
+lot exits with stop signs, but because of the curvy nature of the road, it’s not clear who has
+the right of way.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Use sharrows and a white edge line to define the travel lane.&lt;/b&gt; Add stop bars at parking
+lot exits to clarify right of way.&lt;/p&gt;
+
+&lt;div class=&quot;full rounded shadow&quot;&gt;&lt;img src=&quot;/images/phase-1/shelter-house-parking-lot.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;exit-to-olentangy-blvd&quot;&gt;Exit to Olentangy Blvd&lt;/h2&gt;
+
+&lt;p&gt;Replace gate with bollards, allowing people biking to pass through, or add a new bike
+exit following the desired direction of travel &lt;span class=&quot;muted smaller&quot;&gt;(‘G’ on map)&lt;/span&gt;&lt;/p&gt;
+
+&lt;div class=&quot;full rounded shadow&quot;&gt;&lt;img src=&quot;/images/phase-1/exit-to-olentangy.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;intersection-of-olentangy-blvd-and-henderson-road&quot;&gt;Intersection of Olentangy Blvd and Henderson Road&lt;/h2&gt;
+
+&lt;p&gt;The light cycle at this intersection &lt;span class=&quot;muted smaller&quot;&gt;(‘H’ on map)&lt;/span&gt; is very long.
+This adds significant delay to trips on the Neighborhood Greenways route. It also causes a large
+number of cars to queue up on Olentangy Blvd during rush hour. &lt;b&gt;Evaluate shortening the light
+cycle&lt;/b&gt; to reduce delay for Neighborhood Greenways traffic.&lt;/p&gt;
+
+&lt;p&gt;There is a problem with drivers bullying people on bikes at this intersection. Drivers that
+want to turn right don’t like waiting behind bikes that are going straight and sometimes honk
+and yell at them to “get out of the road”. Bikes often go up on the sidewalk ramps to wait
+which causes problems at they re-integrate into the traffic flow when the light changes.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Evaluate the intersection for bike boxes&lt;/b&gt;. Bike boxes would create space for bikes
+and would clearly communicate that people on bikes should wait in the road and not on the
+sidewalk ramps.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Add ladder-style crosswalks&lt;/b&gt;. More prominent crosswalks will highlight the Neighborhood
+Greenways crossing, raise awareness of the increased bike and pedestrian traffic, and make
+people walking and biking feel more comfortable.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;weisheimer&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;intersection-of-weisheimer-road-and-high-street&quot;&gt;Intersection of Weisheimer Road and High Street&lt;/h2&gt;
+
+&lt;p&gt;This intersection is offset &lt;span class=&quot;muted smaller&quot;&gt;(‘I’ on map)&lt;/span&gt;. However, since there
+is a 4-way traffic signal, it would be possible to &lt;b&gt;re-align the intersection for bikes&lt;/b&gt;. This
+could be done by converting one of the bank exit lanes to a two-way bike lane, or by adding a two-way
+bike lane to the north of the bank exit. The north-east corner of Weisheimer and High is being
+redeveloped, so this is a perfect opportunity to start the discussion.&lt;/p&gt;
+
+&lt;p&gt;A second option would be to &lt;b&gt;improve the sidewalk on the east side of High Street&lt;/b&gt; and route
+bikes along the sidewalk in front of the business. This creates a conflict point with cars
+turning from High Street onto E. Weisheimer Road. The conflict could be eliminated with a choker
+entrance preventing turns onto E. Weisheimer Rd.&lt;/p&gt;
+
+&lt;p&gt;In either case &lt;b&gt;add ladder-style crosswalks&lt;/b&gt;. More prominent crosswalks will highlight the Neighborhood
+Greenway crossing and make people walking and biking feel more comfortable.&lt;/p&gt;
+
+&lt;div class=&quot;full rounded shadow&quot;&gt;&lt;img src=&quot;/images/phase-1/intersection-of-weisheimer-and-high.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;road-markings-and-street-signs&quot;&gt;Road markings and street signs&lt;/h1&gt;
+
+&lt;h2 id=&quot;road-markings&quot;&gt;Road markings&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Sharrow&lt;/b&gt; - use throughout the greenway to mark roads as shared use.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Way-marking sharrow&lt;/b&gt; - use to indicate left or right turn ahead.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Green sharrow&lt;/b&gt; - use on roads with higher volume to emphasize shared use lanes.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Gateway sharrow&lt;/b&gt; - use one gateway sharrow after each major intersection to alert road
+users to the presence of the Neighborhood Greenways.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sharrow flower&lt;/b&gt; - use to mark intersections of Neighborhood Greenways routes to alert
+people that they have a choice to make.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;full rounded shadow&quot;&gt;&lt;img src=&quot;/images/phase-1/road-markings.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;street-signs-and-way-finding-signs&quot;&gt;Street signs and way-finding signs&lt;/h2&gt;
+
+&lt;p&gt;Branded street signs and way-finding signs add awareness of the Neighborhood Greenways route.
+Examples of neighborhood greenway street signs.&lt;/p&gt;
+
+&lt;div class=&quot;full rounded shadow&quot;&gt;&lt;img src=&quot;/images/phase-1/street-signs.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Examples of neighborhood greenway way-finding.&lt;/p&gt;
+
+&lt;div class=&quot;full rounded shadow&quot;&gt;&lt;img src=&quot;/images/phase-1/way-finding-signs.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;traffic-volume-targets&quot;&gt;Traffic volume targets&lt;/h1&gt;
+
+&lt;p&gt;Based on guidance from engineers in Portland, we feel that targeting traffic volumes of under
+1000 cars/day is essential to making a neighborhood greenway safe enough for all ages
+and abilities.&lt;/p&gt;
+
+&lt;p&gt;Below are the guidelines that Portland is proposing to become official policy for their
+neighborhood greenways:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1,000 autos per day is the desired maximum.&lt;/li&gt;
+  &lt;li&gt;1,500+ autos per day is acceptable, but diversion is considered on a case by case basis and
+recommended if there is an expectation that other changes, or the greenway’s location, will attract
+significant traffic to the project street.&lt;/li&gt;
+  &lt;li&gt;More than 2,000 autos per day necessitates diversion in some form if the neighborhood greenway
+street is to be a shared space with auto traffic. This is primarily because Portland has a desired
+maximum speed of 20 mph, and state law permits us to reduce the residential statutory speed of 25
+mph by 5 mph on greenway streets, but only if the residential street has less than 2,000 autos per day.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This guidance is based in part on research documented in
+&lt;a href=&quot;http://transweb.sjsu.edu/PDFs/research/1005-low-stress-bicycling-network-connectivity.pdf&quot; target=&quot;_blank&quot;&gt;Low-Stress Bicycling and Network Connectivity&lt;/a&gt;
+&lt;span class=&quot;muted&quot; style=&quot;font-size:80%&quot;&gt;(PDF 2.4 MB)&lt;/span&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;other-cities-design-guidelines&quot;&gt;Other cities’ design guidelines&lt;/h1&gt;
+
+&lt;p&gt;Portland OR and Berkeley CA both have successful neighborhood greenway networks. For reference
+their neighborhood greenway design guidelines are linked below.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Portland, OR&lt;/strong&gt;
+&lt;a href=&quot;http://www.pdx.edu/ibpi/sites/www.pdx.edu.ibpi/files/BicycleBoulevardGuidebook%28optimized%29.pdf&quot; target=&quot;_blank&quot;&gt;Fundamentals of Bicycle Boulevard Planning &amp;amp; Design&lt;/a&gt;
+&lt;span class=&quot;muted&quot; style=&quot;font-size:80%&quot;&gt;(PDF 5.2 MB)&lt;/span&gt;
+&lt;strong&gt;Berkeley, CA&lt;/strong&gt;
+&lt;a href=&quot;http://www.cityofberkeley.info/Public_Works/Transportation/Bicycle_Boulevard_Guidelines.aspx&quot; target=&quot;_blank&quot;&gt;Bicycle Boulevard Design Tools and Guidelines&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Edit:&lt;/b&gt; This post was updated on 9/11/2015 to align with current best practices and
+feedback from the city.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>New Bike Parking in Clintonville</title>
+   <link href="http://clintonvillegreenways.org/2015/05/04/new-bike-parking-in-clintonville.html"/>
+   <published>2015-05-04T00:00:00-04:00</published>
+   <updated>2015-05-04T00:00:00-04:00</updated>
+   <id>http://clintonvillegreenways.org/2015/05/04/new-bike-parking-in-clintonville</id>
+   <content type="html">&lt;p&gt;One of the major obstacles to a more bike-infused lifestyle is a lack of designated parking near
+restaurants, stores, salons, and other favorite businesses. Leaving your bike chained to a parking
+meter, tree, or fence is risky (not to mention, unsightly).&lt;/p&gt;
+
+&lt;p&gt;Designated bike parking gives people a safe and convenient place to park their bike. Because bike racks
+take up little space, people can ride right up to the front door and have a safe place to lock up their
+bicycles. This encourages more people to bike which reduces traffic congestion and parking hassles for
+people that arrive by car. Everyone benefits.&lt;/p&gt;
+
+&lt;div class=&quot;full rounded shadow&quot;&gt;&lt;img src=&quot;/images/bike-parking/bike-parking-in-clintonville.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a id=&quot;instructions&quot;&gt;&lt;/a&gt;
+Clintonville Neighborhood Greenways is working with local businesses and the City of Columbus to add
+more bike parking in Clintonville. We are sending volunteers to local businesses to show them how
+easy it is to request a free bike rack from the city.&lt;/p&gt;
+
+&lt;p&gt;If you run a business in Clintonville and we haven’t visited you yet, requesting a free bike rack
+from the city is easy:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Call the City of Columbus (614)645-3111 and request a bicycle rack&lt;/b&gt;. They will ask you for
+the address where you are requesting to have a rack installed.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Infrastructure Management will follow-up on your request&lt;/b&gt;. Check your mail and phone messages for
+any possible follow-up questions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Notify the owner of the property at the address where you are requesting a rack.&lt;/b&gt; They may need to
+approve the request before Infrastructure Management can proceed with the installation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Welcome customers on bikes to park in front of your business!&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Have a question about how bike parking can improve your business and make our neighborhood more livable?
+Contact us at: &lt;a href=&quot;mailto:hello@clintonvillegreenways.org?subject=Question about Bike Parking in Clintonville&quot;&gt;hello@clintonvillegreenways.org&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
 </feed>
