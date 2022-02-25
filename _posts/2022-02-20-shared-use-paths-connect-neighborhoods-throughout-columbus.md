@@ -81,26 +81,18 @@ get onto the trail without using a busy road.
 
 <figure class="fit rounded">
   <figcaption>
-    Westerville Crossing Drive
-    <a href="https://www.google.com/maps/@40.0867574,-82.9254604,17z/data=!5m1!1e3" target="_blank">(map)</a>
-  </figcaption>
-  <img src="/images/connectors/alum-creek-trail-system-westerville-crossing-drive-connector.jpg">
-</figure>
-
-<figure class="fit rounded">
-  <figcaption>
-    Hidden Ridge Court
-    <a href="https://www.google.com/maps/@40.0650967,-82.9206393,17z/data=!5m1!1e3" target="_blank">(map)</a>
-  </figcaption>
-  <img src="/images/connectors/alum-creek-trail-system-hidden-ridge-court-connector.jpg">
-</figure>
-
-<figure class="fit rounded">
-  <figcaption>
     Southridge Drive
     <a href="https://www.google.com/maps/@40.0409583,-82.9393895,17z/data=!5m1!1e3" target="_blank">(map)</a>
   </figcaption>
   <img src="/images/connectors/alum-creek-trail-system-southridge-drive-connector.jpg">
+</figure>
+
+<figure class="fit rounded">
+  <figcaption>
+    Westerville Crossing Drive
+    <a href="https://www.google.com/maps/@40.0867574,-82.9254604,17z/data=!5m1!1e3" target="_blank">(map)</a>
+  </figcaption>
+  <img src="/images/connectors/alum-creek-trail-system-westerville-crossing-drive-connector.jpg">
 </figure>
 
 <div style='height:1em'><!--SPACER--></div>
