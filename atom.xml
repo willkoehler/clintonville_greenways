@@ -4,7 +4,7 @@
  <title>Clintonville Neighborhood Greenways</title>
  <link href="http://clintonvillegreenways.org/atom.xml" rel="self"/>
  <link href="http://clintonvillegreenways.org"/>
- <updated>2022-02-23T13:09:47-05:00</updated>
+ <updated>2022-02-25T18:04:29-05:00</updated>
  <id>http://clintonvillegreenways.org/atom.xml</id>
  <author>
    <name>Will Koehler</name>
@@ -82,26 +82,18 @@ get onto the trail without using a busy road.&lt;/p&gt;
 
 &lt;figure class=&quot;fit rounded&quot;&gt;
   &lt;figcaption&gt;
-    Westerville Crossing Drive
-    &lt;a href=&quot;https://www.google.com/maps/@40.0867574,-82.9254604,17z/data=!5m1!1e3&quot; target=&quot;_blank&quot;&gt;(map)&lt;/a&gt;
-  &lt;/figcaption&gt;
-  &lt;img src=&quot;/images/connectors/alum-creek-trail-system-westerville-crossing-drive-connector.jpg&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;figure class=&quot;fit rounded&quot;&gt;
-  &lt;figcaption&gt;
-    Hidden Ridge Court
-    &lt;a href=&quot;https://www.google.com/maps/@40.0650967,-82.9206393,17z/data=!5m1!1e3&quot; target=&quot;_blank&quot;&gt;(map)&lt;/a&gt;
-  &lt;/figcaption&gt;
-  &lt;img src=&quot;/images/connectors/alum-creek-trail-system-hidden-ridge-court-connector.jpg&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;figure class=&quot;fit rounded&quot;&gt;
-  &lt;figcaption&gt;
     Southridge Drive
     &lt;a href=&quot;https://www.google.com/maps/@40.0409583,-82.9393895,17z/data=!5m1!1e3&quot; target=&quot;_blank&quot;&gt;(map)&lt;/a&gt;
   &lt;/figcaption&gt;
   &lt;img src=&quot;/images/connectors/alum-creek-trail-system-southridge-drive-connector.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;fit rounded&quot;&gt;
+  &lt;figcaption&gt;
+    Westerville Crossing Drive
+    &lt;a href=&quot;https://www.google.com/maps/@40.0867574,-82.9254604,17z/data=!5m1!1e3&quot; target=&quot;_blank&quot;&gt;(map)&lt;/a&gt;
+  &lt;/figcaption&gt;
+  &lt;img src=&quot;/images/connectors/alum-creek-trail-system-westerville-crossing-drive-connector.jpg&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;div style=&quot;height:1em&quot;&gt;&lt;!--SPACER--&gt;&lt;/div&gt;
