@@ -177,6 +177,13 @@ article {
     &.rounded img { border-radius:6px; }
     &.border img { border:1px solid $border_color; }
     &.map_container { margin-bottom: 2em; }   // needed because iframe floats in map_container
+
+    figcaption {
+      color: $textmuted;
+      font-size: 0.9em;
+      margin-top: 0.3em;
+      text-align: right;
+    }
   }
 
   figure.fit {
