@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Clintonville Neighborhood Greenways</title>
- <link href="http://clintonvillegreenways.org/atom.xml" rel="self"/>
- <link href="http://clintonvillegreenways.org"/>
- <updated>2022-03-07T19:44:28-05:00</updated>
- <id>http://clintonvillegreenways.org/atom.xml</id>
+ <link href="https://clintonvillegreenways.org/atom.xml" rel="self"/>
+ <link href="https://clintonvillegreenways.org"/>
+ <updated>2022-03-07T19:57:17-05:00</updated>
+ <id>https://clintonvillegreenways.org/atom.xml</id>
  <author>
    <name>Will Koehler</name>
-   <uri>http://clintonvillegreenways.org</uri>
+   <uri>https://clintonvillegreenways.org</uri>
  </author>
 
  
  <entry>
    <title>Clintonville Resident Libby Wetherholt is Hooked on Clintonville's Neighborhood Greenways</title>
-   <link href="http://clintonvillegreenways.org/2022/03/06/libby-wetherholt.html"/>
+   <link href="https://clintonvillegreenways.org/2022/03/06/libby-wetherholt.html"/>
    <published>2022-03-06T00:00:00-05:00</published>
    <updated>2022-02-20T12:00:00-04:00</updated>
-   <id>http://clintonvillegreenways.org/2022/03/06/libby-wetherholt</id>
+   <id>https://clintonvillegreenways.org/2022/03/06/libby-wetherholt</id>
    <content type="html">&lt;p&gt;I have served as an interested citizen on the Clintonville Area Commission Planning
 and Development Committee for over 10 years. It’s been a fun experience. I’ve learned
 so many things about city development and about how to effect change in a city. I’ve
@@ -68,10 +68,10 @@ their part of town.&lt;/p&gt;
  
  <entry>
    <title>Shared Use Paths Connect Neighborhoods Throughout Columbus</title>
-   <link href="http://clintonvillegreenways.org/2022/02/20/shared-use-paths-connect-neighborhoods-throughout-columbus.html"/>
+   <link href="https://clintonvillegreenways.org/2022/02/20/shared-use-paths-connect-neighborhoods-throughout-columbus.html"/>
    <published>2022-02-20T00:00:00-05:00</published>
    <updated>2022-02-20T12:00:00-04:00</updated>
-   <id>http://clintonvillegreenways.org/2022/02/20/shared-use-paths-connect-neighborhoods-throughout-columbus</id>
+   <id>https://clintonvillegreenways.org/2022/02/20/shared-use-paths-connect-neighborhoods-throughout-columbus</id>
    <content type="html">&lt;p&gt;A component of the Clintonville Neighborhood Greenway is a shared use path that connects
 Rathbone Ave to Jeffrey Place. The path will be constructed on city parkland. Here’s a
 &lt;a href=&quot;https://www.google.com/maps/d/u/0/viewer?mid=1hsT6lhfuUlh2AUk1Lp9lDTgUFNs&amp;amp;ll=40.06238694099186%2C-83.02532179556246&amp;amp;z=17&quot; target=&quot;_blank&quot;&gt;map&lt;/a&gt; of the location and here’s a
@@ -229,10 +229,10 @@ way for residents of Dublin to move around their neighborhood.&lt;/p&gt;
  
  <entry>
    <title>Winter 2016 Progress Update</title>
-   <link href="http://clintonvillegreenways.org/2016/01/08/winter-2016-progress-update.html"/>
+   <link href="https://clintonvillegreenways.org/2016/01/08/winter-2016-progress-update.html"/>
    <published>2016-01-08T00:00:00-05:00</published>
    <updated>2016-01-08T12:00:00-04:00</updated>
-   <id>http://clintonvillegreenways.org/2016/01/08/winter-2016-progress-update</id>
+   <id>https://clintonvillegreenways.org/2016/01/08/winter-2016-progress-update</id>
    <content type="html">&lt;p&gt;We’ve met several times with the city over the last 6 months to discuss the Neighborhood Greenways
 route and design. While many of the &lt;a href=&quot;/2015/05/08/phase-1-route-and-design.html&quot;&gt;design recommendations we made for phase 1&lt;/a&gt;
 may seem simple (such as painting green-backed sharrows on the road), they require exemptions from
@@ -277,10 +277,10 @@ grant writers who will be helping us raise money to further our goals.&lt;/p&gt;
  
  <entry>
    <title>Phase 1 Route and Design</title>
-   <link href="http://clintonvillegreenways.org/2015/05/08/phase-1-route-and-design.html"/>
+   <link href="https://clintonvillegreenways.org/2015/05/08/phase-1-route-and-design.html"/>
    <published>2015-05-08T00:00:00-04:00</published>
    <updated>2015-09-11T12:00:00-04:00</updated>
-   <id>http://clintonvillegreenways.org/2015/05/08/phase-1-route-and-design</id>
+   <id>https://clintonvillegreenways.org/2015/05/08/phase-1-route-and-design</id>
    <content type="html">&lt;p&gt;Phase 1 of the Clintonville Neighborhood Greenways has been funded! We are in the process
 of working on a detailed route and design with the City of Columbus.&lt;/p&gt;
 
@@ -539,10 +539,10 @@ feedback from the city.&lt;/p&gt;
  
  <entry>
    <title>New Bike Parking in Clintonville</title>
-   <link href="http://clintonvillegreenways.org/2015/05/04/new-bike-parking-in-clintonville.html"/>
+   <link href="https://clintonvillegreenways.org/2015/05/04/new-bike-parking-in-clintonville.html"/>
    <published>2015-05-04T00:00:00-04:00</published>
    <updated>2015-05-04T00:00:00-04:00</updated>
-   <id>http://clintonvillegreenways.org/2015/05/04/new-bike-parking-in-clintonville</id>
+   <id>https://clintonvillegreenways.org/2015/05/04/new-bike-parking-in-clintonville</id>
    <content type="html">&lt;p&gt;One of the major obstacles to a more bike-infused lifestyle is a lack of designated parking near
 restaurants, stores, salons, and other favorite businesses. Leaving your bike chained to a parking
 meter, tree, or fence is risky (not to mention, unsightly).&lt;/p&gt;
