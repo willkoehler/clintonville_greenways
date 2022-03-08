@@ -14,7 +14,6 @@ excerpt: "As Libby learned about the goals of the Clintonville Neighborhood
 author:
   name: Libby Wetherholt
   bio: Clintonville resident
-  url: http://willkoehler.net
   image: lw.jpg
 
 ---
