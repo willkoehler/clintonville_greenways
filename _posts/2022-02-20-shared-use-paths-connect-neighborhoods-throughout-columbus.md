@@ -31,7 +31,7 @@ safer and more desireable to live in.
 
 The neighborhoods are safer because there are more "eyes on the street". More
 people that live in the neighborhood are out and about and are more likely to see
-and report suspcicious activity. The neighborhoods are more desireable because people
+and report suspicious activity. The neighborhoods are more desireable because people
 have more options to move safely around their community. They have more "random
 encounters" with other people, resulting in increased feelings of belonging and
 wellbeing.
@@ -58,7 +58,7 @@ This short connector links two neighborhoods in Northwest Columbus.
 ## Lincoln Ave to Vinewood Drive I71 Overpass
 
 This I71 overpass provides a vital connection between Salem Village and
-Forest Park in Northest Columbus.
+Forest Park in Northwest Columbus.
 <a href='https://www.google.com/maps/@40.0757375,-82.9877547,17z/data=!5m1!1e3' target="_blank">See it on a map</a>.
 
 <figure class="fit rounded">
