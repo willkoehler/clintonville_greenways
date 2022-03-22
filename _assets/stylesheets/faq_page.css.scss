@@ -4,14 +4,4 @@ article.faq {
   padding-top: 30px;
 
   header { margin-bottom: 2em; }
-
-  .question {
-    font-weight: bold;
-    margin-bottom: .5em;
-    &:before { content: "Q: "; };
-  }
-
-  .answer {
-    margin-bottom: 1.5em;
-  }
 }

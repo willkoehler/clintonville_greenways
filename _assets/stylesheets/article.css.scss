@@ -116,6 +116,11 @@ article {
       margin-bottom:0.5em;
       p { margin-bottom: 0; }
     }
+
+    ul {
+      margin-top: 1em;
+      margin-bottom: 1em;
+    } // nested list
   }
 
   blockquote {
@@ -161,6 +166,12 @@ article {
     }
   }
 
+  .footnote {
+    color: $textmuted;
+    font-size: 0.9em;
+    margin-top: 1em;
+  }
+
   .full {
     margin: 1.5em -3.5em;
 
@@ -184,6 +195,10 @@ article {
       font-size: 0.9em;
       margin-top: 0.3em;
       text-align: right;
+      &.title {
+        text-align: left;
+        font-size: 1em;
+      }
     }
   }
 
@@ -195,6 +210,13 @@ article {
       margin:0;
     }
 
+    &.shadow {
+      img { box-shadow: 0px 0px 5px #888; }
+      // increase margin when shadow is present to compensate for visual space of shadow
+      margin-top: 2em;
+      margin-bottom: 2em;
+    }
+
     &.rounded img { border-radius:6px; }
     figcaption {
       color: $textmuted;
@@ -204,7 +226,6 @@ article {
   }
 
   .small { font-size: 0.8em }
-
 
   // Add a extra margin so spacing between iframes and images and text matches spacing
   // between text blocks. Text blocks have extra spacing because of the line height.
