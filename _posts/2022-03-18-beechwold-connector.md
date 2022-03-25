@@ -45,23 +45,29 @@ of along more heavily trafficked roadways.
 
 - The Beechwold Connector connects people to Graceland Shopping Center.
 
-- The Beechwold Connector connects children to schools including OLP Catholic School,
-Indian Springs Elementary, Red Oak Community School, Bishop Watterson, and Whetstone High School.
+- The Beechwold Connector connects children to schools including Red Oak Community School,
+OLP Catholic School, Indian Springs Elementary, Bishop Watterson, and Whetstone High School.
 
 - The Beechwold Connector connects people to the Olentangy Trail via the Henderson Rd access point.
 
-- The Beechwold Connector connects people to friends and family. People in Beechwold
-ride their bikes to friend's houses, to see family, and to nearby parks.
+- The Beechwold Connector connects people to the athletic fields, nature preserve, and sledding hill
+at Kenny Park.
 
+- The Beechwold Connector connects people to friends and family. Children in Beechwold ride
+their bikes to friend's houses and to see family and grandparents.
 
 <figure class="fit rounded" style="margin-bottom:2.5em">
   <figcaption>Ready to ride to grandma's house and to the creek.</figcaption>
   <img src="/images/beechwold-connector/friends-and-family.jpg">
 </figure>
 
+<figure class="fit rounded">
+  <figcaption>Red Oak Community School - World Water Monitoring Day at Kenny Park</figcaption>
+  <img src="/images/beechwold-connector/red-oak-community-school-walking-to-kenny-park.jpg">
+</figure>
+
 <figure class="fit rounded" style="margin-bottom:2.5em">
-  <figcaption>Biking to school - Shields Pl</figcaption>
-  <img src="/images/beechwold-connector/biking-to-school.jpg">
+  <img src="/images/beechwold-connector/red-oak-community-school-citizen-scientist-projects.jpg">
 </figure>
 
 <figure class="fit rounded" style="margin-bottom:2.5em">
@@ -131,16 +137,31 @@ Below are some common questions about the Beechwold Connector. See our
 </figure>
 
 <div class="question">
-  Are there other places in Columbus with similar connectors?
+  I don't have a bike. Does this connector help me?
 </div>
 <div class="answer">
-  Shared use paths are used throughout Columbus to connect neighborhoods to each other
-  and to nearby trail systems. <a href='{% post_url 2022-02-20-shared-use-paths-connect-neighborhoods-throughout-columbus %}'>Read our story about similar connectors in Columbus.</a>
+  Absolutely! Based on who's using it now, the connector will be used more
+  often by families with strollers and wagons and people walking dogs than
+  people on bikes.
 </div>
 
 <figure class="fit rounded" style="margin-bottom:2.5em">
-  <figcaption>Shared Use Path Connecting Boathouse Dr and Astral Dr - Northwest Columbus</figcaption>
-  <img src="/images/beechwold-connector/boathouse-drive-neighborhood-connector.jpg">
+  <figcaption>Evening trip to Kroger with the family - Rustic Bridge</figcaption>
+  <img src="/images/beechwold-connector/evening-trip-to-kroger-with-the-family.jpg">
+</figure>
+
+<div class="question">
+  The connector is fine the way it is. Why are we improving it?
+</div>
+<div class="answer">
+  While a connection does exist within the easement, it's currently an unimproved muddy path.
+  The new paved connection will be ADA-compliant, making it perfect for people with mobility
+  challenges, families in the neighborhood with strollers and wagons, as well as people on bikes.
+</div>
+
+<figure class="fit rounded" style="margin-bottom:2.5em">
+  <figcaption>Coming home from the grocery store - Rustic Bridge</figcaption>
+  <img src="/images/beechwold-connector/biking-home-from-kroger.jpg">
 </figure>
 
 <div class="question">
@@ -160,17 +181,16 @@ Below are some common questions about the Beechwold Connector. See our
 </div>
 
 <div class="question">
-  The connector is fine the way it is. Why are we improving it?
+  Are there other places in Columbus with similar connectors?
 </div>
 <div class="answer">
-  While a connection does exist within the easement, it's currently an unimproved muddy path.
-  The new paved connection will be ADA-compliant, making it perfect for people with mobility
-  challenges, families in the neighborhood with strollers and wagons, as well as people on bikes.
+  Shared use paths are used throughout Columbus to connect neighborhoods to each other
+  and to nearby trail systems. <a href='{% post_url 2022-02-20-shared-use-paths-connect-neighborhoods-throughout-columbus %}'>Read our story about similar connectors in Columbus.</a>
 </div>
 
 <figure class="fit rounded" style="margin-bottom:2.5em">
-  <figcaption>Coming home from Kroger - Rustic Bridge</figcaption>
-  <img src="/images/beechwold-connector/biking-home-from-kroger.jpg">
+  <figcaption>Shared Use Path Connecting Boathouse Dr and Astral Dr - Northwest Columbus</figcaption>
+  <img src="/images/beechwold-connector/boathouse-drive-neighborhood-connector.jpg">
 </figure>
 
 <div class="question">
