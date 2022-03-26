@@ -40,6 +40,12 @@ layout: base
           <span class="muted">{{ page.author.bio }}</span>
         </p>
       </address>
+
+      <h2>Sign up for our mailing list</h2>
+      <p> We'll send you periodic updates, no more than twice a month. </p>
+      {% include mail_chimp_signup.html %}
+      <hr class="tighten">
+
       {% if page.next.url %}
       {% assign post = page.next %}
       <section class="post_summary">
