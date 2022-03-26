@@ -615,6 +615,8 @@ article {
     margin: 2em 0;
     border: 0 none;
     border-top: 1px solid #DDD; }
+    article hr.tighten {
+      margin: 1.5em 0; }
   article .highlight {
     margin: 1.85em -3.5em 1.85em 0; }
     article .highlight pre {
