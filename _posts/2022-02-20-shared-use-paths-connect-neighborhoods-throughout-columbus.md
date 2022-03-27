@@ -11,10 +11,9 @@ excerpt: "Shared use paths are used throughout Columbus to connect neighborhoods
           to each other and to nearby trail systems. These connections make the
           neighborhoods safer and more desireable to live in."
 author:
-  name: Will Koehler
-  bio: Clintonville resident and active transportation enthusiast.
-  url: http://willkoehler.net
-  image: wk.jpg
+  name: Clintonville Neighborhood Greenways Team
+  bio: Residents dedicated to making walking and biking safer in Clintonville
+  image: cng.jpg
 
 ---
 A component of the Clintonville Neighborhood Greenway is a shared use path that connects
