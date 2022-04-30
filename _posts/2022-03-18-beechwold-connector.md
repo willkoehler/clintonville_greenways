@@ -26,10 +26,28 @@ Despite thorough vetting and approvals, the City still needs to hear from people
 support this connector to ensure it's completed as planned.
 Continue below to learn more. Or [skip down](#call-to-action) to see how you can help.
 
+<a name="park-improvements"></a>
+
 <figure class="full rounded shadow">
   <figcaption class='title'>Beechwold Connector design and landscaping plan</figcaption>
   <img src="/images/beechwold-connector/beechwold-connector-render.jpg">
 </figure>
+
+## Beechwold Connector Park Improvements
+
+The Beechwold Connector includes a complete renovation of the parkland that connects
+Rathbone and Jeffrey Place. This includes removal of invasive plants and a new
+landscaping plan with 109 native plantings, including
+
+- 5 Eastern Red Cedars - which grow to 30-40 ft
+- 13 American Hollies - which grow to 13-25 ft
+- Dogwoods - which grow at least 15ft
+- Gentsch White Hemlocks
+- Cranberry Bushes
+- Purple Chokeberries
+
+Not only are we gaining an important neighborhood connection, we are also getting a
+newly renovated park in the heart of Old Beechwold and Delawanda.
 
 # What is the Beechwold Connector?
 
